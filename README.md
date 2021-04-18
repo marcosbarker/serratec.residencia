@@ -77,21 +77,21 @@
 
 ## <img  height="40px" align="center" src="assets/coin.gif"> Trilha de Aprendizado
 
-✔️[Lógica de Programação *54h*](serratec.LogicaDeProgramacao/)
-- [ ] [Banco de Dados *42*]()
-- [ ] [Modelagem de Sistemas *18h*]()
-- [ ] [Programação Orientada a Objetos *84h*]()
-- [ ] [Front End Essencial *42h*]()
-- [ ] [Desenvolvimento API Restful *84h*]()
-- [ ] [Desenvolvimento Wep *54h*]()
-- [ ] [Desenvolvimento Mobile *66h*]()
-- [ ] [Projeto Aplicado *66h*]()
-- [ ] [Integração de Competência *20h*]()
-- [ ] [Mentoria de Carreira *17h*]()
-- [ ] [Inglês Instrumental *16h*]()
-- [ ] [Maratona de Programação *60h*]()
-- [ ] [Mentoria de Projetos *20h*]()
-- [ ] [Palestas e Workshops *31h*]()
+✔️[Lógica de Programação *54h*](serratec.LogicaDeProgramacao/)</br>
+✔️[Banco de Dados *42*]()</br>
+✔️[Modelagem de Sistemas *18h*]()</br>
+✔️[Programação Orientada a Objetos *84h*]()</br>
+✔️[Front End Essencial *42h*]()</br>
+✔️[Desenvolvimento API Restful *84h*]()</br>
+✔️[Desenvolvimento Wep *54h*]()</br>
+✔️[Desenvolvimento Mobile *66h*]()</br>
+✔️[Projeto Aplicado *66h*]()</br>
+✔️[Integração de Competência *20h*]()</br>
+✔️[Mentoria de Carreira *17h*]()</br>
+✔️[Inglês Instrumental *16h*]()</br>
+✔️[Maratona de Programação *60h*]()</br>
+✔️[Mentoria de Projetos *20h*]()</br>
+✔️[Palestas e Workshops *31h*]()</br>
   
 * ##### ***Total de 770h, 134 dias em 19 semanas***
 
@@ -117,6 +117,12 @@
 - [**Portugol Studio**](https://portugol-webstudio.cubos.io/)    [*(Documentação)*](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Como-funciona-o-Portugol-Studio)
 - [**PostgreSQL**](https://www.postgresql.org/)    [(*Documentação*)](http://pgdocptbr.sourceforge.net/pg80/index.html)
 - [**DBeaver**](https://dbeaver.io/)    [(*Documentação*)](https://dbeaver.com/docs/wiki/)
+- [**HTML5**](https://html.spec.whatwg.org/)    [(*Documentação MDN*)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [**CSS**](https://www.w3.org/Style/CSS/)    [(*Documentação MDN*)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [**JavaScript**](https://www.javascript.com/)    [(*Documentação MDN*)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [**Java**](https://www.oracle.com/java/technologies/)    [(*Documentação*)](https://docs.oracle.com/en/java/)    [(*Documentação MDN*)](https://developer.mozilla.org/en-US/docs/Glossary/Java)
+- [**React**](https://reactjs.org/)    [(*Documentação*)](https://reactjs.org/tutorial/tutorial.html)    [(*Documentação MDN*)](https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
+- [**React Native**](https://reactnative.dev/)    [(*Documentação*)](https://reactnative.dev/)    [(*Documentação MDN*)](https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
 
 </br>
 
