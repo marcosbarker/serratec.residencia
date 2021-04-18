@@ -18,7 +18,7 @@
 
 </br>
 
-## <img  height="45px" align="center" src="assets/colorBlock.gif"> Conteúdo Programático
+## <img  height="40px" align="center" src="assets/colorBlock.gif"> Conteúdo Programático
 
 - [x] Compreender a lógica booleana (E, OU, NOT).
 - [x] Entender a árvore de decisão.
@@ -30,7 +30,24 @@
 
 *Totalizando 54h*
 
-## <img  height="50px" align="center" src="assets/stockrocketgif.gif"> Tecnologia Utilizada
+</br>
+
+## <img  height="40px" align="center" src="assets/coin.gif"> Listas e Exercícios
+
+1. [Operações de Entrada e Saída (Variáveis e Constantes)](Lista_1_Operadores_de_Entrada_e_Saida(Variaveis_e_Constantes)/)
+2. [Desvios Condicionais (Operadores Lógicos)](Lista_2_Desvios_Condicionais(Operadores_Logicos)/)
+3. [Laços de Repetição (enquanto, para até)](Lista_3_Lacos_de_Repeticao(Enquato_Para)/)
+4. [Funções e Recursividade](Lista_4_%20Funcoes_e_Recursividade/) 
+5. [Vetores e Matrizes](Lista_5_Vetores_e_Matrizes/)
+*  [Exercícios Extras](Exercicios_Extras/)
+*  [Feitos em Aula](Feitos_em_Aula/)
+*  [Material de Aula](Material_de_Aula/)<br/>
+
+⚡[<b>Trabalho Final</b>](Trabalho_Final/)
+
+</br>
+
+## <img  height="45px" align="center" src="assets/stockrocketgif.gif"> Tecnologia Utilizada
 
 - [<b>Portugol Studio</b>](https://portugol-webstudio.cubos.io/)    [<i>(Documentação)</i>](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Como-funciona-o-Portugol-Studio)
 
