@@ -1,8 +1,7 @@
+<a name="back-to-top">
 <p align="center">
   <img height="80px" src="assets/logoSerratec.png" alt="logo serratec"/>
 </p>
-
-<a name="back-to-top">
 
 <h1 align="center">💻Residência de Software</h1>
 <h5 align="center">(Repositório completo. Grupo 01-T4)</h5>
