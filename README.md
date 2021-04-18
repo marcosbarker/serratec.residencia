@@ -76,8 +76,9 @@
 </br>
 
 ## <img  height="40px" align="center" src="assets/coin.gif"> Trilha de Aprendizado
+* #### Conteúdo Programático
 
-- [x] [Lógica de Programação *54h*]()
+- [ ] [Lógica de Programação *54h*](serratec.LogicaDeProgramacao/)
 - [ ] [Banco de Dados *42*]()
 - [ ] [Modelagem de Sistemas *18h*]()
 - [ ] [Programação Orientada a Objetos *84h*]()
@@ -93,7 +94,7 @@
 - [ ] [Mentoria de Projetos *20h*]()
 - [ ] [Palestas e Workshops *31h*]()
   
-
+* ##### ***Total de 770h, 134 dias em 19 semanas***
 
 </br>
 
