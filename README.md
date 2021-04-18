@@ -80,8 +80,8 @@
 
 
 - [x] [Lógica de Programação *54h*](serratec.LogicaDeProgramacao/)
-- [ ] [Banco de Dados *42*]()
-- [ ] [Modelagem de Sistemas *18h*]()
+- [x] [Banco de Dados *42*]()
+- [X] [Modelagem de Sistemas *18h*]()
 - [ ] [Programação Orientada a Objetos *84h*]()
 - [ ] [Front End Essencial *42h*]()
 - [ ] [Desenvolvimento API Restful *84h*]()
