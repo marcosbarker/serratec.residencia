@@ -78,10 +78,9 @@
 ## <img  height="40px" align="center" src="assets/coin.gif"> Trilha de Aprendizado
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conteúdo Programático
 
-
-- [x] [Lógica de Programação *54h*](serratec.LogicaDeProgramacao/)
-- [x] [Banco de Dados *42*]()
-- [X] [Modelagem de Sistemas *18h*]()
+- [x] [Lógica de Programação *54h*]()
+- [ ] [Banco de Dados *42*]()
+- [ ] [Modelagem de Sistemas *18h*]()
 - [ ] [Programação Orientada a Objetos *84h*]()
 - [ ] [Front End Essencial *42h*]()
 - [ ] [Desenvolvimento API Restful *84h*]()
