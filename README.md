@@ -76,9 +76,8 @@
 </br>
 
 ## <img  height="40px" align="center" src="assets/coin.gif"> Trilha de Aprendizado
-* #### Conteúdo Programático
 
-- [ ] [Lógica de Programação *54h*](serratec.LogicaDeProgramacao/)
+✔️[Lógica de Programação *54h*](serratec.LogicaDeProgramacao/)
 - [ ] [Banco de Dados *42*]()
 - [ ] [Modelagem de Sistemas *18h*]()
 - [ ] [Programação Orientada a Objetos *84h*]()
