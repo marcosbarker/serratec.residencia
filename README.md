@@ -93,6 +93,7 @@
 - [ ] [Maratona de Programação *60h*]()
 - [ ] [Mentoria de Projetos *20h*]()
 - [ ] [Palestas e Workshops *31h*]()
+  
 * ##### ***Total de 770h, 134 dias em 19 semanas***
 
 </br>
