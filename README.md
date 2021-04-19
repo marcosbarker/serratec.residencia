@@ -78,7 +78,7 @@
 ## <img  height="40px" align="center" src="assets/coin.gif"> Trilha de Aprendizado
 
 ✔️ [Lógica de Programação](serratec.LogicaDeProgramacao/)</br>
-✔️ [Banco de Dados]()</br>
+✔️ [Banco de Dados](serratec.BancoDeDados/)</br>
 ❌ [Modelagem de Sistemas]()</br>
 ❌ [Programação Orientada a Objetos]()</br>
 ❌ [Front End Essencial]()</br>
