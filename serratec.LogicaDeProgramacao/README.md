@@ -3,30 +3,19 @@
 </p>
 
 <h1 align="center">Lógica de Programação</h1>
-<!--<h2 align="center">Grupo 01 - Turma 04</h2>-->
 <h3 align="center">Professor Marcelo Machado Collares</h3>
-
-<!--
-## <img  height="50px" align="center" src="https://user-images.githubusercontent.com/57602117/114129487-07b9b880-98d5-11eb-9ebb-10ccd48c2eeb.png"> Integrantes
-- [Caio Rodrigues](https://github.com/raiocodrigues)
-- [Frederico Stilpen](https://github.com/FredericoStilpen)
-- [Gabriel Macedo Araújo](https://github.com/M4G1Ck)
-- [João Paulo Bade](https://github.com/JpBade)
-- [Marcos Paulo Marques Corrêa](https://github.com/marcosbarker)
-- [Volnei Neves](https://github.com/Volneineves)
-  -->
 
 </br>
 
 ## <img  height="40px" align="center" src="assets/colorBlock.gif"> Conteúdo Programático
 
-- [x] Compreender a lógica booleana (E, OU, NOT).
-- [x] Entender a árvore de decisão.
-- [x] Saber utilizar as estruturas de laço.
-- [x] Conhecer o conceito de recursividade.
-- [x] Entender a estrutura de dados (vetor, matriz, fila, pilha...).
-- [x] Compreender o conceito de variável e constante.
-- [x] Saber utilizar um sistema de controle de versão (GIT).
+✔️ Compreender a lógica booleana (E, OU, NOT)</br>
+✔️ Entender a árvore de decisão</br>
+✔️ Saber utilizar as estruturas de laço</br>
+✔️ Conhecer o conceito de recursividade</br>
+✔️ Entender a estrutura de dados (vetor, matriz, fila, pilha...)</br>
+✔️ Compreender o conceito de variável e constante</br>
+✔️ Saber utilizar um sistema de controle de versão (GIT)
 
 *Totalizando 54h*
 
@@ -43,13 +32,13 @@
 *  [Feitos em Aula](Feitos_em_Aula/)
 *  [Material de Aula](Material_de_Aula/)<br/>
 
-⚡[<b>Trabalho Final</b>](Trabalho_Final/)
+⚡[**Trabalho Final**](Trabalho_Final/)
 
 </br>
 
 ## <img  height="45px" align="center" src="assets/stockrocketgif.gif"> Tecnologia Utilizada
 
-- [<b>Portugol Studio</b>](https://portugol-webstudio.cubos.io/)    [<i>(Documentação)</i>](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Como-funciona-o-Portugol-Studio)
+- [**Portugol Studio**](https://portugol-webstudio.cubos.io/)    [*(Documentação)*](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Como-funciona-o-Portugol-Studio)
 
 <p align="center">
   <img align="center" height="400px" src="assets/osZeressemosProTeam.png"> 
