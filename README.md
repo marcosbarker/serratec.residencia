@@ -62,7 +62,18 @@
     </td>
 </table>
 
-</br>
+<details>
+<h4>
+  <p align="center">
+    <span style="color:green">
+      TEM UMA HILLUX(4X4) LOTADA DE ABACATE AQUII!</br></br>
+        <img align="center" height="300px" src="assets/hillux4x4Abacate.gif">
+    </br></br>
+      IIIHAAAAA!
+    </span>  
+  </p>
+</h4>
+</details>
 
 ## <img  height="40px" align="center" src="assets/coin.gif"> Trilha de Aprendizado
 
@@ -104,4 +115,4 @@
 
 </br>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬆️[Back to top](#back-to-top)⬆️ 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬆️[**Back to top**](#back-to-top)⬆️
