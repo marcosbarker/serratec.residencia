@@ -3,18 +3,7 @@
 </p>
 
 <h1 align="center">Lógica de Programação</h1>
-<!--<h2 align="center">Grupo 01 - Turma 04</h2>-->
 <h3 align="center">Professor Marcelo Machado Collares</h3>
-
-<!--
-## <img  height="50px" align="center" src="https://user-images.githubusercontent.com/57602117/114129487-07b9b880-98d5-11eb-9ebb-10ccd48c2eeb.png"> Integrantes
-- [Caio Rodrigues](https://github.com/raiocodrigues)
-- [Frederico Stilpen](https://github.com/FredericoStilpen)
-- [Gabriel Macedo Araújo](https://github.com/M4G1Ck)
-- [João Paulo Bade](https://github.com/JpBade)
-- [Marcos Paulo Marques Corrêa](https://github.com/marcosbarker)
-- [Volnei Neves](https://github.com/Volneineves)
-  -->
 
 </br>
 
