@@ -77,21 +77,21 @@
 
 ## <img  height="40px" align="center" src="assets/coin.gif"> Trilha de Aprendizado
 
-✔️[Lógica de Programação *54h*](serratec.LogicaDeProgramacao/)</br>
-✔️[Banco de Dados *42h*]()</br>
-✔️[Modelagem de Sistemas *18h*]()</br>
-✔️[Programação Orientada a Objetos *84h*]()</br>
-✔️[Front End Essencial *42h*]()</br>
-✔️[Desenvolvimento API Restful *84h*]()</br>
-✔️[Desenvolvimento Wep *54h*]()</br>
-✔️[Desenvolvimento Mobile *66h*]()</br>
-✔️[Projeto Aplicado *66h*]()</br>
-✔️[Integração de Competência *20h*]()</br>
-✔️[Mentoria de Carreira *17h*]()</br>
-✔️[Inglês Instrumental *16h*]()</br>
-✔️[Maratona de Programação *60h*]()</br>
-✔️[Mentoria de Projetos *20h*]()</br>
-✔️[Palestas e Workshops *31h*]()</br>
+✔️[**Lógica de Programação** *54h*](serratec.LogicaDeProgramacao/)</br>
+✔️[**Banco de Dados** *42h*]()</br>
+✔️[**Modelagem de Sistemas** *18h*]()</br>
+✔️[**Programação Orientada a Objetos** *84h*]()</br>
+✔️[**Front End Essencial** *42h*]()</br>
+✔️[**Desenvolvimento API Restful** *84h*]()</br>
+✔️[**Desenvolvimento Wep** *54h*]()</br>
+✔️[**Desenvolvimento Mobile** *66h*]()</br>
+✔️[**Projeto Aplicado** *66h*]()</br>
+✔️[**Integração de Competência** *20h*]()</br>
+✔️[**Mentoria de Carreira** *17h*]()</br>
+✔️[**Inglês Instrumental** *16h*]()</br>
+✔️[**Maratona de Programação** *60h*]()</br>
+✔️[**Mentoria de Projetos** *20h*]()</br>
+✔️[**Palestas e Workshops** *31h*]()</br>
   
 * ##### ***Total de 770h, 134 dias em 19 semanas***
 
