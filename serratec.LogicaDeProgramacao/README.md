@@ -32,13 +32,13 @@
 *  [Feitos em Aula](Feitos_em_Aula/)
 *  [Material de Aula](Material_de_Aula/)<br/>
 
-⚡[<b>Trabalho Final</b>](Trabalho_Final/)
+⚡[**Trabalho Final**](Trabalho_Final/)
 
 </br>
 
 ## <img  height="45px" align="center" src="assets/stockrocketgif.gif"> Tecnologia Utilizada
 
-- [<b>Portugol Studio</b>](https://portugol-webstudio.cubos.io/)    [<i>(Documentação)</i>](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Como-funciona-o-Portugol-Studio)
+- [**Portugol Studio**](https://portugol-webstudio.cubos.io/)    [*(Documentação)*](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Como-funciona-o-Portugol-Studio)
 
 <p align="center">
   <img align="center" height="400px" src="assets/osZeressemosProTeam.png"> 
