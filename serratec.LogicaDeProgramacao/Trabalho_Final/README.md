@@ -19,7 +19,13 @@
 
 ## <img  height="40px" align="center" src="../../assets/coin.gif"> Trabalho
 
-Trabalho em grupo feito como requisito parcial da disciplina Lógica de Programação, 10 questões desenvolvidas com a ferramenta Portugol Studio.  
+Trabalho em grupo feito como requisito parcial da disciplina Lógica de Programação, 10 questões desenvolvidas com a ferramenta Portugol Studio.
+
+</br>
+
+## <img  height="45px" align="center" src="../assets/stockrocketgif.gif"> Tecnologia Utilizada
+
+- [<b>Portugol Studio</b>](https://portugol-webstudio.cubos.io/)    [<i>(Documentação)</i>](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Como-funciona-o-Portugol-Studio)
 
 <p align="center">
   <img align="center" height="400px" src="../assets/osZeressemosProTeam.png"> 
