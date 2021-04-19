@@ -1,5 +1,5 @@
 <p align="center">
-<img height="80px" src="https://github.com/Volneineves/Grupo01-turmaMarcelo/blob/trabalhoFinal/assets/logoSerratec.png" alt="logo serratec">
+<img height="80px" src="../../assets/logoSerratec.png" alt="logo serratec">
 </p>
 
 <h1 align="center">Trabalho de avaliação de lógica de programação</h1>
@@ -7,6 +7,7 @@
 <h3 align="center">Professor Marcelo Machado Collares</h3>
 
 ## <img  height="50px" align="center" src="https://user-images.githubusercontent.com/57602117/114129487-07b9b880-98d5-11eb-9ebb-10ccd48c2eeb.png"> Integrantes
+
 - [Caio Rodrigues](https://github.com/raiocodrigues)
 - [Frederico Stilpen](https://github.com/FredericoStilpen)
 - [Gabriel Macedo Araújo](https://github.com/M4G1Ck)
@@ -16,11 +17,13 @@
 
 </br>
 
-## <img  height="40px" align="center" src="https://slackmojis.com/emojis/4418-google_docs/download"> Trabalho
+## <img  height="40px" align="center" src="../../assets/coin.gif"> Trabalho
 
 Trabalho em grupo feito como requisito parcial da disciplina Lógica de Programação, 10 questões desenvolvidas com a ferramenta Portugol Studio.  
 
-## <img  height="50px" align="center" src="https://emojis.slackmojis.com/emojis/images/1464135097/464/fb-like.gif?1464135097"> Contribuidores
+<p align="center">
+  <img align="center" height="400px" src="../assets/osZeressemosProTeam.png"> 
+</p>
 
 <table>
   <tr>
