@@ -20,13 +20,13 @@
 
 ## <img  height="40px" align="center" src="assets/colorBlock.gif"> Conteúdo Programático
 
-✔️ Compreender a lógica booleana (E, OU, NOT).
-✔️ Entender a árvore de decisão.
-✔️ Saber utilizar as estruturas de laço.
-✔️ Conhecer o conceito de recursividade.
-✔️ Entender a estrutura de dados (vetor, matriz, fila, pilha...).
-✔️ Compreender o conceito de variável e constante.
-✔️ Saber utilizar um sistema de controle de versão (GIT).
+✔️ Compreender a lógica booleana (E, OU, NOT)</br>
+✔️ Entender a árvore de decisão</br>
+✔️ Saber utilizar as estruturas de laço</br>
+✔️ Conhecer o conceito de recursividade</br>
+✔️ Entender a estrutura de dados (vetor, matriz, fila, pilha...)</br>
+✔️ Compreender o conceito de variável e constante</br>
+✔️ Saber utilizar um sistema de controle de versão (GIT)
 
 *Totalizando 54h*
 
