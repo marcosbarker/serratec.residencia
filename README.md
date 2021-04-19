@@ -5,7 +5,6 @@
 
 <h1 align="center">💻Residência de Software</h1>
 <h5 align="center">(Repositório completo. Grupo 01-T4)</h5>
-<!--<h3 align="center">Professor Marcelo Machado Collares</h3>-->
 
 <p align="center">
   <img align="center" height="400px" src="assets/osZeressemosProTeam.png"> 
@@ -63,54 +62,33 @@
     </td>
 </table>
 
-<!--
-## <img  height="50px" align="center" src="https://user-images.githubusercontent.com/57602117/114129487-07b9b880-98d5-11eb-9ebb-10ccd48c2eeb.png"> Integrantes
-- [Caio Rodrigues](https://github.com/raiocodrigues)
-- [Frederico Stilpen](https://github.com/FredericoStilpen)
-- [Gabriel Macedo Araújo](https://github.com/M4G1Ck)
-- [João Paulo Bade](https://github.com/JpBade)
-- [Marcos Paulo Marques Corrêa](https://github.com/marcosbarker)
-- [Volnei Neves](https://github.com/Volneineves)
-  -->
-
 </br>
 
 ## <img  height="40px" align="center" src="assets/coin.gif"> Trilha de Aprendizado
 
-✔️[Lógica de Programação *54h*](serratec.LogicaDeProgramacao/)</br>
-✔️[Banco de Dados *42h*]()</br>
-✔️[Modelagem de Sistemas *18h*]()</br>
-✔️[Programação Orientada a Objetos *84h*]()</br>
-✔️[Front End Essencial *42h*]()</br>
-✔️[Desenvolvimento API Restful *84h*]()</br>
-✔️[Desenvolvimento Wep *54h*]()</br>
-✔️[Desenvolvimento Mobile *66h*]()</br>
-✔️[Projeto Aplicado *66h*]()</br>
-✔️[Integração de Competência *20h*]()</br>
-✔️[Mentoria de Carreira *17h*]()</br>
-✔️[Inglês Instrumental *16h*]()</br>
-✔️[Maratona de Programação *60h*]()</br>
-✔️[Mentoria de Projetos *20h*]()</br>
-✔️[Palestas e Workshops *31h*]()</br>
-  
-* ##### ***Total de 770h, 134 dias em 19 semanas***
+✔️[Lógica de Programação](serratec.LogicaDeProgramacao/)</br>
+✔️[Banco de Dados]()</br>
+✔️[Modelagem de Sistemas]()</br>
+✔️[Programação Orientada a Objetos]()</br>
+✔️[Front End Essencial]()</br>
+✔️[Desenvolvimento API Restful]()</br>
+✔️[Desenvolvimento Wep]()</br>
+✔️[Desenvolvimento Mobile]()</br>
+✔️[Projeto Aplicado]()</br>
+✔️[Integração de Competência]()</br>
+✔️[Mentoria de Carreira]()</br>
+✔️[Inglês Instrumental]()</br>
+✔️[Maratona de Programação]()</br>
+✔️[Mentoria de Projetos]()</br>
+✔️[Palestas e Workshops]()</br>
 
 </br>
+  
+### <details><summary><img  height="30px" align="center" src="assets/questionblock.gif"> Trilha de Aprendizado Detalhada</summary><p align="center"></br><img  height="450px" src="assets/trilhaDeAprendizado.jpg"></p></details>
 
-<!--
-## <img  height="40px" align="center" src="assets/coin.gif"> Listas e Exercícios
+### <details><summary><img  height="30px" align="center" src="assets/questionblock.gif"> Material Serratec Completo</summary><p align="center"></br>[Trilha de Aprendizado Completo PDF](assets/conteudo_programatico_residencia_software2021.1.pdf)</p></details>
 
-1. [Operações de Entrada e Saída (Variáveis e Constantes)](Lista_1_Operadores_de_Entrada_e_Saida(Variaveis_e_Constantes)/)
-2. [Desvios Condicionais (Operadores Lógicos)](Lista_2_Desvios_Condicionais(Operadores_Logicos)/)
-3. [Laços de Repetição (enquanto, para até)](Lista_3_Lacos_de_Repeticao(Enquato_Para)/)
-4. [Funções e Recursividade](Lista_4_Funcoes_e_Recursividade/) 
-5. [Vetores e Matrizes](Lista_5_Vetores_e_Matrizes/)
-*  [Exercícios Extras](Exercicios_Extras/)
-*  [Feitos em Aula](Feitos_em_Aula/)
-*  [Material de Aula](Material_de_Aula/)<br/>
-
-⚡[<b>Trabalho Final</b>](Trabalho_Final/)
--->
+</br>
 
 ## <img  height="45px" align="center" src="assets/stockrocketgif.gif"> Tecnologia Utilizada
 
@@ -127,61 +105,3 @@
 </br>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬆️[Back to top](#back-to-top)⬆️ 
-
-<!--
-<p align="center">
-  <img align="center" height="400px" src="assets/osZeressemosProTeam.png"> 
-</p>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/raiocodrigues">
-        <img src="https://avatars.githubusercontent.com/u/82115790?v=4" width="100px;" alt="Avatar Caio Rodrigues"/><br>
-        <sub>
-          <b>Caio Rodrigues</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/FredericoStilpen">
-        <img src="https://avatars.githubusercontent.com/u/82114348?v=4" width="100px;" alt="Avatar Frederico Stilpen"/><br>
-        <sub>
-          <b>Frederico Stilpen</b>
-        </sub>
-      </a><br>
-    </td>
-    <td align="center">
-      <a href="https://github.com/M4G1Ck">
-        <img src="https://avatars.githubusercontent.com/u/79328112?v=4" width="100px;" alt="Avatar Gabriel Macedo Araújo"/><br>
-        <sub>
-          <b>Gabriel Macedo Araújoo</b>
-        </sub>
-      </a><br>
-    </td>
-    <td align="center">
-      <a href="https://github.com/JpBade">
-        <img src="https://avatars.githubusercontent.com/u/82114843?v=4" width="100px;" alt="Avatar João Paulo Bade"/><br>
-        <sub>
-          <b>João Paulo Bade</b>
-        </sub>
-      </a><br>
-    </td>
-    <td align="center">
-      <a href="https://github.com/marcosbarker">
-        <img src="https://avatars.githubusercontent.com/u/57602117?v=4" width="100px;" alt="Avatar Marcos Paulo Marques Corrêa"/><br>
-        <sub>
-          <b>Marcos Paulo Marques Corrêa</b>
-        </sub>
-      </a><br>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Volneineves">
-        <img src="https://avatars.githubusercontent.com/u/82004090?v=4" width="100px;" alt="Avatar Volnei Neves"/><br>
-        <sub>
-          <b>Volnei Neves</b>
-        </sub>
-      </a><br>
-    </td>
-</table>
--->
