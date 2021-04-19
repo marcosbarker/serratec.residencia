@@ -66,21 +66,21 @@
 
 ## <img  height="40px" align="center" src="assets/coin.gif"> Trilha de Aprendizado
 
-✔️[Lógica de Programação](serratec.LogicaDeProgramacao/)</br>
-✔️[Banco de Dados]()</br>
-✔️[Modelagem de Sistemas]()</br>
-✔️[Programação Orientada a Objetos]()</br>
-✔️[Front End Essencial]()</br>
-✔️[Desenvolvimento API Restful]()</br>
-✔️[Desenvolvimento Wep]()</br>
-✔️[Desenvolvimento Mobile]()</br>
-✔️[Projeto Aplicado]()</br>
-✔️[Integração de Competência]()</br>
-✔️[Mentoria de Carreira]()</br>
-✔️[Inglês Instrumental]()</br>
-✔️[Maratona de Programação]()</br>
-✔️[Mentoria de Projetos]()</br>
-✔️[Palestas e Workshops]()</br>
+✔️ [Lógica de Programação](serratec.LogicaDeProgramacao/)</br>
+✔️ [Banco de Dados]()</br>
+❌ [Modelagem de Sistemas]()</br>
+❌ [Programação Orientada a Objetos]()</br>
+❌ [Front End Essencial]()</br>
+❌ [Desenvolvimento API Restful]()</br>
+❌ [Desenvolvimento Wep]()</br>
+❌ [Desenvolvimento Mobile]()</br>
+❌ [Projeto Aplicado]()</br>
+❌ [Integração de Competência]()</br>
+❌ [Mentoria de Carreira]()</br>
+❌ [Inglês Instrumental]()</br>
+❌ [Maratona de Programação]()</br>
+❌ [Mentoria de Projetos]()</br>
+❌ [Palestas e Workshops]()</br>
 
 </br>
   
