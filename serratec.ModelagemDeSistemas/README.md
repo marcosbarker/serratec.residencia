@@ -23,7 +23,7 @@
 
 ## <img  height="40px" align="center" src="../assets/coin.gif"> Listas e Exercícios
 * [Atividades](atividades/)
-*  [Material de Aula](/serratec.ModelagemDeSistemas/materialDeAula/modelagem_sistemas.pdf)<br/>
+* [Material de Aula](materialDeAula/)<br/>
 
 ⚡[**Trabalho Final**]()
 
