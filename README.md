@@ -79,7 +79,7 @@
 
 ✔️ [Lógica de Programação](serratec.LogicaDeProgramacao/)</br>
 ✔️ [Banco de Dados](serratec.BancoDeDados/)</br>
-❌ [Modelagem de Sistemas]()</br>
+✔️ [Modelagem de Sistemas](serratec.ModelagemDeSistemas/)</br>
 ❌ [Programação Orientada a Objetos]()</br>
 ❌ [Front End Essencial]()</br>
 ❌ [Desenvolvimento API Restful]()</br>
