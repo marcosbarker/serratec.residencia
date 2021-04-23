@@ -18,8 +18,9 @@
         </br>
       </p>
   <p align="center">
-    <a href="https://www.youtube.com/watch?v=EpZfR_tlkp0&t=8039s">(Vídeo da Palestra)</a>&nbsp;&nbsp;&nbsp;    
-    <a href="materialApresentado/">(Material Apresentado)</a>
+    <img height="30px" src="../assets/coin.gif">
+    <a href="https://www.youtube.com/watch?v=EpZfR_tlkp0&t=8039s">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    <a href="materialApresentado/scrumNaPratica">(Material Apresentado)</a>
   </h4>
   </p>
   <p align="center">
@@ -37,8 +38,9 @@
         </br>
       </p>
   <p align="center">
-    <a href="https://www.youtube.com/watch?v=h8pcq5HkXIs">(Vídeo da Palestra)</a>&nbsp;&nbsp;&nbsp;    
-    <a href="">(Material Apresentado)</a>
+  <img height="30px" src="../assets/coin.gif">
+    <a href="https://www.youtube.com/watch?v=h8pcq5HkXIs">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    <a href="materialApresentado/comoAtenderDiversidade">(Material Apresentado)</a>
   </h4>
   </p>
   <p align="center">
@@ -57,7 +59,8 @@
         </br>
       </p>
   <p align="center">
-    <a href="">(Vídeo da Palestra)</a>&nbsp;&nbsp;&nbsp;    
+  <img height="30px" src="../assets/coin.gif">
+    <a href="">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
     <a href="">(Material Apresentado)</a>
   </h4>
   </p>
@@ -69,8 +72,6 @@
 *Totalizando 31h*
 
 </br>
-
-## <img  height="40px" align="center" src="../assets/coin.gif"> Material
 
 <p align="center">
   <img align="center" height="400px" src="../assets/osZeressemosProTeam.png"> 
