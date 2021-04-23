@@ -19,7 +19,7 @@
       </p>
   <p align="center">
     <img height="30px" src="../assets/coin.gif">
-    <a href="https://www.youtube.com/watch?v=EpZfR_tlkp0&t=8039s">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    <a href="https://www.youtube.com/watch?v=EpZfR_tlkp0&t=8039s" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
     <a href="materialApresentado/scrumNaPratica">(Material Apresentado)</a>
   </h4>
   </p>
@@ -39,7 +39,7 @@
       </p>
   <p align="center">
   <img height="30px" src="../assets/coin.gif">
-    <a href="https://www.youtube.com/watch?v=h8pcq5HkXIs">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    <a href="https://www.youtube.com/watch?v=h8pcq5HkXIs" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
     <a href="materialApresentado/comoAtenderDiversidade">(Material Apresentado)</a>
   </h4>
   </p>
@@ -60,7 +60,7 @@
       </p>
   <p align="center">
   <img height="30px" src="../assets/coin.gif">
-    <a href="">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    <a href="http" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
     <a href="">(Material Apresentado)</a>
   </h4>
   </p>
