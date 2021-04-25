@@ -63,7 +63,7 @@
     <a href="https://youtu.be/LomAzSTLCQQ" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
     <a href="materialApresentado/aiMachineLearningDeepLearning">(Material Apresentado)</a>&nbsp;&nbsp;
     <a href="materialApresentado/aiMachineLearningDeepLearning/palestra_ai_ml_dl.py">(Código Python)</a>&nbsp;&nbsp;      
-    <a href="https://colab.research.google.com/github/marcosbarker/serratec.residencia/blob/marcosbarker/palestra_ai_ml_dl.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg\" alt="Open In Colab"></a>
+    <a href="https://colab.research.google.com/github/marcosbarker/serratec.residencia/blob/marcosbarker/palestra_ai_ml_dl.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
   </h4>
   </p>
   <p align="center">
