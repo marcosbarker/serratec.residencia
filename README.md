@@ -77,9 +77,9 @@
 
 ## <img  height="40px" align="center" src="assets/coin.gif"> Trilha de Aprendizado
 
-✔️ [Lógica de Programação](serratec.LogicaDeProgramacao/)</br>
+✔️ [Lógica de Programação](serratec.LogicaDeProgramacao/){:target="_blank"}</br>
 ✔️ [Banco de Dados](serratec.BancoDeDados/)</br>
-✔️ [Modelagem de Sistemas](serratec.ModelagemDeSistemas/)</br>
+✔️ [Modelagem de Sistemas](serratec.ModelagemDeSistemas/){:target="_blank"}</br>
 ❌ Programação Orientada a Objetos</br>
 ❌ Front End Essencial</br>
 ❌ Desenvolvimento API Restful</br>
@@ -91,7 +91,7 @@
 ❌ Inglês Instrumental</br>
 ❌ Maratona de Programação</br>
 ❌ Mentoria de Projetos</br>
-✔️ [Palestras e Workshops](serratec.PalestrasWorkshops/)
+✔️ [Palestras e Workshops](serratec.PalestrasWorkshops/){:target="_blank"}
 
 </br>
   
