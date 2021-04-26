@@ -91,7 +91,7 @@
 ❌ Inglês Instrumental</br>
 ❌ Maratona de Programação</br>
 ❌ Mentoria de Projetos</br>
-❌ Palestas e Workshops
+✔️ [Palestras e Workshops](serratec.PalestrasWorkshops/)
 
 </br>
   
@@ -113,6 +113,7 @@
 - [**React**](https://reactjs.org/)    [(*Documentação*)](https://reactjs.org/tutorial/tutorial.html)    [(*Documentação MDN*)](https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
 - [**React Native**](https://reactnative.dev/)    [(*Documentação*)](https://reactnative.dev/)    [(*Documentação MDN*)](https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
 - [**UML Designer**](http://www.umldesigner.org/)    [*(Documentação)*](http://www.umldesigner.org/ref-doc/presentation.html)
+- [**Draw.io**](https://drawio-app.com/product/)    [*(Documentação)*](https://drawio-app.com/tutorials/)
 
 </br>
 

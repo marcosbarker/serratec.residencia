@@ -25,13 +25,14 @@
 * [Atividades](atividades/)
 * [Material de Aula](materialDeAula/)<br/>
 
-⚡[**Trabalho Final**]()
+⚡[**Trabalho Final**](trabalhoFinal/)
 
 </br>
 
 ## <img  height="45px" align="center" src="../assets/stockrocketgif.gif"> Tecnologia Utilizada
 
 - [**UML Designer**](http://www.umldesigner.org/)    [*(Documentação)*](http://www.umldesigner.org/ref-doc/presentation.html)
+- [**Draw.io**](https://drawio-app.com/product/)    [*(Documentação)*](https://drawio-app.com/tutorials/)
 
 <p align="center">
   <img align="center" height="400px" src="../assets/osZeressemosProTeam.png"> 
