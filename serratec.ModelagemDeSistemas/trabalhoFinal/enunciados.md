@@ -1,7 +1,6 @@
 <div style="text-align: justify">
 
 ### 📈Trabalho Final da Disciplina 
-#### Diagrama de Casos de Uso
 Considerando a opção de negócio escolhida
 na disciplina de BD (Trabalho Final) e considerando o DER confeccionado,  pede-se:
 

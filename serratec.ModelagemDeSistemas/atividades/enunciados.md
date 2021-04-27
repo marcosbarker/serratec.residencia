@@ -10,5 +10,5 @@ Apresentar **2 exemplos** de utilização.
 * Diagrama
 * Descrição: Nome, Descrição Sucinta,Atores, Pré-condições, Fluxo Básico e Fluxo Alternativo
 
-⚡[*Atividade*]()
+⚡[*Atividade*](diagramaCasosDeUso.pdf)
 </div>
