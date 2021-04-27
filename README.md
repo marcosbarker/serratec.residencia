@@ -79,19 +79,19 @@
 
 ✔️ [Lógica de Programação](serratec.LogicaDeProgramacao/)</br>
 ✔️ [Banco de Dados](serratec.BancoDeDados/)</br>
-❌ [Modelagem de Sistemas]()</br>
-❌ [Programação Orientada a Objetos]()</br>
-❌ [Front End Essencial]()</br>
-❌ [Desenvolvimento API Restful]()</br>
-❌ [Desenvolvimento Wep]()</br>
-❌ [Desenvolvimento Mobile]()</br>
-❌ [Projeto Aplicado]()</br>
-❌ [Integração de Competência]()</br>
-❌ [Mentoria de Carreira]()</br>
-❌ [Inglês Instrumental]()</br>
-❌ [Maratona de Programação]()</br>
-❌ [Mentoria de Projetos]()</br>
-❌ [Palestas e Workshops]()</br>
+✔️ [Modelagem de Sistemas](serratec.ModelagemDeSistemas/)</br>
+❌ Programação Orientada a Objetos</br>
+❌ Front End Essencial</br>
+❌ Desenvolvimento API Restful</br>
+❌ Desenvolvimento Wep</br>
+❌ Desenvolvimento Mobile</br>
+❌ Projeto Aplicado</br>
+❌ Integração de Competência</br>
+❌ Mentoria de Carreira</br>
+❌ Inglês Instrumental</br>
+❌ Maratona de Programação</br>
+❌ Mentoria de Projetos</br>
+✔️ [Palestras e Workshops](serratec.PalestrasWorkshops/)
 
 </br>
   
@@ -112,6 +112,8 @@
 - [**Java**](https://www.oracle.com/java/technologies/)    [(*Documentação*)](https://docs.oracle.com/en/java/)    [(*Documentação MDN*)](https://developer.mozilla.org/en-US/docs/Glossary/Java)
 - [**React**](https://reactjs.org/)    [(*Documentação*)](https://reactjs.org/tutorial/tutorial.html)    [(*Documentação MDN*)](https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
 - [**React Native**](https://reactnative.dev/)    [(*Documentação*)](https://reactnative.dev/)    [(*Documentação MDN*)](https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
+- [**UML Designer**](http://www.umldesigner.org/)    [*(Documentação)*](http://www.umldesigner.org/ref-doc/presentation.html)
+- [**Draw.io**](https://drawio-app.com/product/)    [*(Documentação)*](https://drawio-app.com/tutorials/)
 
 </br>
 
