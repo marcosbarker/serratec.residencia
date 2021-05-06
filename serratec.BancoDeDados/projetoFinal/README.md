@@ -8,7 +8,7 @@
 
 </br>
 
-## <img  height="40px" align="center" src="../assets/coin.gif"> O Projeto
+## <img  height="40px" align="center" src="../assets/coin.gif">E-commerce Marketplace
 
 * [Projeto Final Descrição](projetoFinalDaDisciplinaBD_enunciado.pdf)
 * [Script Único (*Criação das Tabelas e Inserção dos Dados*)](scriptJUnico/)

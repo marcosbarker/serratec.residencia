@@ -34,11 +34,12 @@
 
 ## <img  height="40px" align="center" src="assets/coin.gif"> Atividades
 
-1. [Exercícios](exercicios/)
-2. [Trabalhos de Pesquisa](trabalhosDePesquisa/)
-*  [Material de Aula](materialDeAula/)</br>
+* [Exercícios](exercicios/)
+* [Trabalhos de Pesquisa](trabalhosDePesquisa/)
+* [Material de Aula](materialDeAula/)</br>
 
-⚡ [**Projeto Final**](projetoFinal/)
+### ⚡Projeto Final 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**E-commerce Marketplace**](projetoFinal/)
 
 </br>
 
