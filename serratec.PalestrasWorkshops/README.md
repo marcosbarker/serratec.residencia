@@ -71,6 +71,26 @@
   </p>
 </details>
 
+<details> 
+  <summary>✔️ Conceitos de Business Intelligence&nbsp;&nbsp;&nbsp;&nbsp;<i>(08/05/2021)</i></summary>
+    <h4>
+      <p align="justify">
+      <b>Palestrante:</b>Frederick Souza
+        </br></br>
+          Frederick, Tableau Specialist da Info4. Irá apresentar Conceitos de Business Intelligence.
+        </br>
+      </p>
+  <p align="center">
+  <img height="30px" src="../assets/coin.gif">
+    <a href="" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    <a href="materialApresentado/">(Material Apresentado)</a>&nbsp;&nbsp;
+  </h4>
+  </p>
+  <p align="center">
+    <img height="300px" src="assets/conceitosBI.jpeg">
+  </p>
+</details>
+
 *Totalizando 31h*
 
 </br>
