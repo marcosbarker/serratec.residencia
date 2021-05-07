@@ -25,7 +25,8 @@
 * [Atividades](atividades/)
 * [Material de Aula](materialDeAula/)<br/>
 
-⚡[**Trabalho Final**](trabalhoFinal/)
+### ⚡Trabalho Final
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Diagramas UML E-commerce Marketplace**](trabalhoFinal/)
 
 </br>
 
