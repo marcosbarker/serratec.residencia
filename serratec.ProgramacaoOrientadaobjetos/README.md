@@ -2,51 +2,43 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="80px" src="assets/logoSerratec.png" alt="logo serratec"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="100px" src="assets/osZeressemosProTeam.png" alt="logo serratec"/>
 </p>
 
-<details>
-  <summary></summary>
-    <h2><p align="center">
-    <img  height="70px" src="assets/data.png">Base</h2> 
-  </p>
-</details>
-
-<h1 align="center">Banco de Dados</h1>
-<h3 align="center">Professor Alexandre de Oliveira Paixão</h3>
+<h1 align="center">Programação Orientada a Objetos (Java)</h1>
+<h3 align="center">Professor Marcelo Machado Collares</h3>
 
 </br>
 
 ## <img  height="40px" align="center" src="assets/colorBlock.gif"> Conteúdo Programático
 
-✔️ Entender os conceitos de entidade, atributo e relacionamento</br>
-✔️ Saber mapear e projetar um banco de dados</br>
-✔️ Criar um banco de dados (DDL Data Definition Language</br>
-✔️ Manter a integridade referencial do banco de dados (chave)</br>
-✔️ Manipular banco de dados (DML Data Manipulation Language)</br>
-✔️ Consultar banco de dados (DQL Data Query Language)</br>
-✔️ Consultar múltiplas tabelas de um banco de dados (junção de tabelas)</br>
-✔️ Utilizar funções de agregação (soma, máximo, mínimo, média, etc)</br>
-✔️ Fazer agrupamento</br>
-✔️ Criar índices para pesquisa no banco de dados</br>
-✔️ Entender o conceito de normalização de banco de dados
+✔️ Compreender compilação, execução e entrada de dados (i/o, teclado, console).</br>
+✔️ Dominar os identificadores, palavras chave, tipos e operadores (tipos primitivos, conversão,       variáveis, hierarquia de operadores e parênteses).</br>
+✔️ Saber utilizar as estruturas de programação ( if , loop, switch, break, * Enum , métodos de classe, recursividade) e escopo de variáveis.</br>
+✔️ Gerir objetos e classes: acesso, getters , setters , construtores, static.</br>
+✔️ Gerir objetos e classes: herança, reescrita, polimorfismo, classes abstratas e Interfaces.</br>
+✔️ Manipula r data e hora.</br>
+✔️ Saber utilizar as estruturas de dados (arrays, coleções).</br>
+✔️ Realizar o tratamento de erros.</br>
+✔️ Acessar um banco de dados a partir do backend.</br>
+✔️ Empacotar aplicações, criar e utilizar bibliotecas.
 
-*Totalizando 42h*
+*Totalizando 84h*
 
 </br>
 
 ## <img  height="40px" align="center" src="assets/coin.gif"> Atividades
 
-* [Exercícios](exercicios/)
-* [Trabalhos de Pesquisa](trabalhosDePesquisa/)
 * [Material de Aula](materialDeAula/)</br>
-
-### ⚡Projeto Final 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**E-commerce Marketplace**](projetoFinal/)
-
-</br>
+* [Exercícios Variados](exerciciosVariados/)</br>
+* [Projeto Banco (*Feito em aula*)](sistemaBancoFeitoEmAula/)
+* [Projeto Sistema Faculdade](sistemaFaculdadeFuncionarios/)</br>
+ 
+### ⚡Projeto Final     
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Sistema Banco (*Zeroth National Bank*)**](sistemaBancoAvaliacao/)</br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*Enunciado*](sistemaBancoAvaliacao/documento/projetoFinalDisciplinaJava.pdf)</br>    
 
 ## <img  height="45px" align="center" src="assets/stockrocketgif.gif"> Tecnologia Utilizada
 
-- [**PostgreSQL**](https://www.postgresql.org/)    [(*Documentação*)](http://pgdocptbr.sourceforge.net/pg80/index.html)
-- [**DBeaver**](https://dbeaver.io/)    [(*Documentação*)](https://dbeaver.com/docs/wiki/)
+- [**Eclipse**](https://www.eclipse.org/downloads/)    [*(Documentação)*](https://help.eclipse.org/2021-03/index.jsp)
+- [**Oracle JDK**](https://www.oracle.com/br/java/technologies/javase-downloads.html)    [*(Documentação)*](https://docs.oracle.com/en/java/javase/16/)
   
 <p align="center">
   <img align="center" height="400px" src="assets/osZeressemosProTeam.png"> 

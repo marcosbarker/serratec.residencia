@@ -71,6 +71,46 @@
   </p>
 </details>
 
+<details> 
+  <summary>✔️ Conceitos de Business Intelligence&nbsp;&nbsp;&nbsp;&nbsp;<i>(08/05/2021)</i></summary>
+    <h4>
+      <p align="justify">
+      <b>Palestrante:</b>    Frederick Souza
+        </br></br>
+          Frederick, Tableau Specialist da Info4. Irá apresentar Conceitos de Business Intelligence.
+        </br>
+      </p>
+  <p align="center">
+  <img height="30px" src="../assets/coin.gif">
+    <a href="https://youtu.be/tbEIQTnRyEQ" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    <a href="materialApresentado/businessIntelligence">(Material Apresentado)</a>&nbsp;&nbsp;
+  </h4>
+  </p>
+  <p align="center">
+    <img height="300px" src="assets/conceitosBI.jpeg">
+  </p>
+</details>
+
+<details> 
+  <summary>✔️ Storytelling com Dados&nbsp;&nbsp;&nbsp;&nbsp;<i>(15/05/2021)</i></summary>
+    <h4>
+      <p align="justify">
+      <b>Palestrante:</b>    Frederick Souza
+        </br></br>
+          Frederick, Tableau Specialist da Info4. Irá apresentar Storytelling com Dados.
+        </br>
+      </p>
+  <p align="center">
+  <img height="30px" src="../assets/coin.gif">
+    <a href="link do video" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    <a href="material Apresentado">(Material Apresentado)</a>&nbsp;&nbsp;
+  </h4>
+  </p>
+  <p align="center">
+    <img height="300px" src="assets/storytellingComDados.jpeg">
+  </p>
+</details>
+
 *Totalizando 31h*
 
 </br>
