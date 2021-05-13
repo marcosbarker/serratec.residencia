@@ -1,0 +1,6 @@
+titular;cpf;numero;agencia;saldo;tipo
+Frederico;111;1;11;900.0000000000002;1
+João Paulo;222;2;11;520.0;2
+Marcos;333;3;11;139.8;1
+Volnei;444;4;22;220.0;2
+Gabriel;555;5;22;700;2

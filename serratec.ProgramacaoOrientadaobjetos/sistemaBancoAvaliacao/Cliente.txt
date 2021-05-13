@@ -1,0 +1,6 @@
+nome;cpf;senha;idFuncionario
+Frederico;111;123;0
+João Paulo;222;123;1
+Marcos;333;123;2
+Volnei;444;123;3
+Gabriel;555;123;0

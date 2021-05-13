@@ -1,0 +1,13 @@
+"Vamos modelar um sistema para a faculdade 
+Controlar as despesas com empregados e professores;
+Nosso empregado terá nome e salário como atributos;
+Nosso professor terá além disso o atributo horasDeAula, 
+pois temos de somar um bônus de 10 reais por hora/aula;
+Terá como métodos o getGastos(), que irá retornar os gastos 
+com o funcionário e o GetInfo() que retorna as informações do 
+usuário;
+Reescrever os método no professor se necessário;
+O getInfo() também será reescrito, pois temos de mostrar as 
+horas/aula também;
+Vamos implementar uma classe relatório que irá imprimir as 
+informações e os gastos da faculdade; Tire proveito do polimorfismo;"
