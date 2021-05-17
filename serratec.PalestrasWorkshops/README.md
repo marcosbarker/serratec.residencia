@@ -111,6 +111,26 @@
   </p>
 </details>
 
+<details> 
+  <summary>✔️ ALM - Controle de Ciclo de Vida de Projetos&nbsp;&nbsp;&nbsp;&nbsp;<i>(22/05/2021)</i></summary>
+    <h4>
+      <p align="justify">
+      <b>Palestrante:</b>    Marcelo Carius
+        </br></br>
+          Marcelo Carius, CEO da Neki e Presidente do Serratec. Irá apresentar Controle de Ciclo de Vida de Projetos.
+        </br>
+      </p>
+  <p align="center">
+  <img height="30px" src="../assets/coin.gif">
+    <a href="linkVideoPalestra" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    <a href="materialApresentado/">(Material Apresentado)</a>&nbsp;&nbsp;
+  </h4>
+  </p>
+  <p align="center">
+    <img height="300px" src="assets/alm.jpeg">
+  </p>
+</details>
+
 *Totalizando 31h*
 
 </br>
