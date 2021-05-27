@@ -122,8 +122,8 @@
       </p>
   <p align="center">
   <img height="30px" src="../assets/coin.gif">
-    <a href="linkVideoPalestra" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
-    <a href="materialApresentado/">(Material Apresentado)</a>&nbsp;&nbsp;
+    <a href="https://youtu.be/yRDJWsufMaM" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    <a href="materialApresentado/aml">(Material Apresentado)</a>&nbsp;&nbsp;
   </h4>
   </p>
   <p align="center">
