@@ -81,7 +81,7 @@
 ✔️ [Banco de Dados](serratec.BancoDeDados/)</br>
 ✔️ [Modelagem de Sistemas](serratec.ModelagemDeSistemas/)</br>
 ✔️ [Programação Orientada a Objetos](serratec.ProgramacaoOrientadaobjetos/)</br>
-✔️ [Front End Essencial](serratec.FrontEndEssencial/)</br>
+✔️ [Front-end Essencial](serratec.FrontEndEssencial/)</br>
 ❌ Desenvolvimento API Restful</br>
 ❌ Desenvolvimento Wep</br>
 ❌ Desenvolvimento Mobile</br>
