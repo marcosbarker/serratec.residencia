@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet" />
+    <link rel="shortcut icon" href="../assets/favicon.png">
+    <link rel="stylesheet" href="../global/style/main.css">
+    <link rel="stylesheet" href="../global/style/pokeApi.css">
+    <link rel="stylesheet" href="../global/style/navbar.css">
+    <link rel="stylesheet" href="./style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Zeromon Market</title>
+</head>
+
+<body>
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500;700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet" />
+        <link rel="shortcut icon" href="../assets/favicon.png">
+        <link rel="stylesheet" href="../main.css">
+        <link rel="stylesheet" href="../global/style/pokeApi.css">
+        <link rel="stylesheet" href="../navbar.css">
+        <link rel="stylesheet" href="./style.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
+            integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+        <link rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <title>Zeromon Market</title>
+    </head>
+
+    <body>
+        <header>
+            <a id="subirTopo">☝</a>
+            <div class="topnav" id="myTopnav">
+                <a class="active" href="../index.html"><img width="80px" src="../assets/logoZeromon.png"
+                        alt="Zeremon Home"></a>
+                <a href="../forms/contact.html">Contato</a>
+                <a href="../video/video.html">Vídeos</a>
+                <a href="#about">Sobre nós</a>
+                <a href="#" data-toggle="modal" data-target="#cart">Carrinho (<span class="total-count"></span>) </a>
+                <div class="dropdown">
+                    <button class="dropbtn">Cartas
+                        <i class="fa fa-caret-down"></i>
+                    </button>
+                    <div class="dropdown-content">
+                        <table>
+                            <tr>
+                                <td><a class="dropdown-item" href="../produtos/produtos.html">Produtin</a>
+                                <td><a class="dropdown-item" href="../produtos/grass.html">Grass</a>
+                                <td><a class="dropdown-item" href="../produtos/poison.html">Poison</a>
+                                <td><a class="dropdown-item" href="#">Fire</a></td>
+                                <td><a class="dropdown-item" href="#">Flying</a></td>
+                            </tr>
+                            <tr>
+                                <td><a class="dropdown-item" href="#">Water</a></td>
+                                <td><a class="dropdown-item" href="#">Bug</a></td>
+                                <td><a class="dropdown-item" href="#">Eletric</a></td>
+                                <td><a class="dropdown-item" href="#">Ground</a></td>
+                            </tr>
+                            <tr>
+                                <td><a class="dropdown-item" href="#">Dairy</a></td>
+                                <td><a class="dropdown-item" href="#">Fighting</a></td>
+                                <td><a class="dropdown-item" href="#">Psychic</a></td>
+                                <td><a class="dropdown-item" href="#">Rock</a></td>
+                            </tr>
+                            <tr>
+                                <td><a class="dropdown-item" href="#">Steel</a></td>
+                                <td><a class="dropdown-item" href="#">Ice</a></td>
+                                <td><a class="dropdown-item" href="#">Ghost</a></td>
+                                <td><a class="dropdown-item" href="#">Dragon</a></td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                function myFunction() {
+                    var x = document.getElementById("myTopnav");
+                    if (x.className === "topnav") {
+                        x.className += " responsive";
+                    } else {
+                        x.className = "topnav";
+                    }
+                }
+            </script>
+        </header>
+
+        <section id="secProdutos">
+            <div id="imagens">
+                <div class="produtos">
+                    <img class="card-img-top" src="../assets/pokemonsID/1.png" Card image cap">
+                    <div class="compra">
+                        <h3>R$ 50,00</h3>
+                        <button data-name="BubassaurCard" data-price="50.00" class="add-to-cart botao"
+                            id="btnProduto"><i class="fa fa-shopping-cart">&nbsp</i> COMPRAR </button></a>
+                    </div>
+                </div>
+                <div class="produtos">
+                    <img class="card-img-top" src="../assets/pokemonsID/2.png" alt="Card image cap">
+                    <div class="compra">
+                        <h3>R$ 70,00</h3>
+                        <button data-name="IvysaurCard" data-price="70.00" class="add-to-cart botao" id="btnProduto"><i
+                                class="fa fa-shopping-cart">&nbsp</i> COMPRAR </button></a>
+                    </div>
+                </div>
+                <div class="produtos">
+                    <img class="card-img-top" src="../assets/pokemonsID/3.png" alt="Card image cap">
+                    <div class="compra">
+                        <h3>R$ 100,00</h3>
+                        <button data-name="VenusaurCard" data-price="100.00" class="add-to-cart botao"
+                            id="btnProduto"><i class="fa fa-shopping-cart">&nbsp</i> COMPRAR </button></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- inicio bootstrap modal -->
+        <div id="modalConfig">
+            <div class="modal fade" id="cart" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+                aria-hidden="true">
+                <div class="modal-dialog modal-lg" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Carrinho</h5>
+                            <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <table class="show-cart table">
+
+                            </table>
+                            <div>Preço total: R$<span class="total-cart"></span></div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondaryF" data-dismiss="modal">Fechar</button>
+                            <a href="../carrinhoDeCompras/fechamentoDePedido/fechamento.html"><button type="button"
+                                    class="btn btn-primaryF">Finalizar pedido</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+       <!-- fim bootstrap modal -->
+        <!--plugins Js Bootstrap-->
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
+        <script src="../produtos/produto.js"></script>
+
+        <footer class="text-center text-lg-start bg-light text-muted">
+            <div style="background-color: #282b37;">
+                <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
+                    <div class="me-5 d-none d-lg-block">
+                        <span>Integrantes da Zeréssemos:</span>
+                    </div>
+                    <div class="me-5 d-none d-lg-block">
+                        <a href="https://www.linkedin.com/in/volnei-paulino-neves-filho-495a84168/" target="_blank">
+                            <i class="github"><img src="https://unavatar.now.sh/github/Volneineves"></i>
+                        </a>
+                        <a href="https://www.linkedin.com/in/fredericostilpen/" target="_blank">
+                            <i class="github"><img src="https://unavatar.now.sh/github/FredericoStilpen"></i>
+                        </a>
+                        <a href="https://www.linkedin.com/in/marcos-paulo-marques-corr%C3%AAa-gomes/" target="_blank">
+                            <i class="github"><img src="https://unavatar.now.sh/github/marcosbarker"></i>
+                        </a>
+                        <a href="https://www.linkedin.com/in/gabriel-macedo-ara%C3%BAjo-951603165/" target="_blank">
+                            <i class="github"><img src="https://unavatar.now.sh/github/M4G1Ck"></i>
+                        </a>
+                        <a href="https://www.linkedin.com/in/jpbade/" target="_blank">
+                            <i class="github"><img src="https://unavatar.now.sh/github/JpBade"></i>
+                        </a>
+
+                        <a href="https://github.com/raiocodrigues" target="_blank">
+                            <i class="github"><img src="https://unavatar.vercel.app/github/raiocodrigues"></i>
+                        </a>
+                    </div>
+                </section>
+                <section class="">
+                    <div class="container text-center text-md-start mt-5">
+                        <div class="row mt-3">
+
+                            <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+
+                                <h6 class="text-uppercase fw-bold mb-4">
+                                    <i class="fas fa-gem me-3" id="about"></i>
+                                    Sobre Nós
+                                </h6>
+                                <p>
+                                    Baseado na equipe Rocket, a Zeréssemos Company veio para proteger o mundo da
+                                    devastação!
+                                    Para unir as pessoas de nossa nação! Pra denunciar os males da verdade e do amor!
+                                    Pra
+                                    estender nosso poder as estrelas! Caio, Fred, JP, Gabriel, Marcos e Volnei! Equipe
+                                    Zeréssemos decolando na velocidade da Luz! Renda-se Agora ou prepare-se Para Lutar!
+                                </p>
+                            </div>
+                            <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+
+                                <h6 class="text-uppercase fw-bold mb-4">
+                                    Pokemons
+                                </h6>
+                                <p>
+                                    <a href="../index.html" class="text-reset">Home</a>
+                                </p>
+                                <p>
+                                    <a href="./produtos.html" class="text-reset">Cartas</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+
+                                <h6 class="text-uppercase fw-bold mb-4">
+                                    Links interessantes
+                                </h6>
+                                <p>
+                                    <a href="https://github.com/OsZeressemos" class="text-reset">GitHub</a>
+                                </p>
+                                <p>
+                                    <a href="https://www.pokemon.com/br/pokedex/" class="text-reset">Pokédex</a>
+                                </p>
+                                <p>
+                                    <a href="http://pudim.com.br/" class="text-reset">Pudim</a>
+                                </p>
+                            </div>
+
+                            <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+                                <h6 class="text-uppercase fw-bold mb-4">
+                                    Contato
+                                </h6>
+                                <p>
+                                <address>Petrópolis, Rio de Janeiro, BR</address>
+                                </p>
+                                <p>
+                                    <a href="mailto:zeressemos@tech.com" class="text-reset">zeressemos@tech.com</a>
+                                </p>
+                                <p>
+                                    <a href="https://www.instagram.com/zeressemos_company/" class="text-reset" target="_blank">Instagram</a>
+                                </p>
+                                <p>
+                                    <a href="https://www.facebook.com/Pokemon" class="text-reset" target="_blank">Faceboook</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <div class="text-center p-4">
+                    © 2021 Copyright:
+                    <a class="text-reset fw-bold" href="https://github.com/OsZeressemos">zeressemos.com</a>
+                </div>
+            </div>
+        </footer>
+        <script src="../app.js"></script>
+        <!--plugins Js Bootstrap-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
+            crossorigin="anonymous"></script>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+            crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+            integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+            crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+            integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+            crossorigin="anonymous"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+        <script type="text/javascript">
+            jQuery(document).ready(function () {
+
+                jQuery("#subirTopo").hide();
+
+                jQuery('a#subirTopo').click(function () {
+                    jQuery('body,html').animate({
+                        scrollTop: 0
+                    }, 800);
+                    return false;
+                });
+
+                jQuery(window).scroll(function () {
+                    if (jQuery(this).scrollTop() > 1000) {
+                        jQuery('#subirTopo').fadeIn();
+                    } else {
+                        jQuery('#subirTopo').fadeOut();
+                    }
+                });
+            });
+        </script>
+        </div>
+    </body>
+
+</html>

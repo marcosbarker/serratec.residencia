@@ -1,0 +1,17 @@
+#btnCompra{
+  max-width: 10rem;
+  height: 25px;
+  border: none;
+  font-size: 15px;
+  font-family: rubik;
+  font-weight: bolder;
+  border-radius: 10px;
+  background-color: #FFCC00;
+  border: none;
+}
+
+#btnCompra:hover{
+  position: static;
+  box-shadow: 10px 10px 50px 10px rgb(26, 85, 158, 60%);
+  color: rgb(26, 85, 158, 1);
+}
