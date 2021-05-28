@@ -1,0 +1,133 @@
+*HTML - Hyper Text Markup Language
+
+*comentario <!--comentario--> 
+
+
+*<img src="fonte da imagem" alt="texto descritivo">
+
+*<h1 title="comentario na frase">texto comentado</h1>
+
+*<h1 title="comentario na frase" contenteditable="true">texto comentado</h1> torna editavel para o usuario
+
+*<!--hierarquia-->
+<div>
+  <h1>Nome: </h1>
+  <p><strong>Marcos</strong></p>
+</div>
+
+*Caracteres especiais
+
+*Anatomia de um html, atalho html5:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+o que aparece para o usuario-->  
+</body>
+</html>
+
+*Nivel hierarquico texto
+<h1></h1>  
+<h2></h2>  
+<h3></h3>  
+<h4></h4>  
+<h5></h5>  
+<h6></h6>  
+
+*Tipos de listas
+ordenada <ol></ol>
+<ol>
+  <li>Elementos</li>
+  <li>Elementos</li>
+  <li>Elementos</li>
+  <li>Elementos</li>
+  <li>Elementos</li>
+</ol>
+
+desordenada <ul></ul>
+<ul>
+  <li>Elementos</li>
+  <li>Elementos</li>
+  <li>Elementos</li>
+  <li>Elementos</li>
+  <li>Elementos</li>
+</ul>
+
+
+*Citacao
+<blockquote cite="endereco da citacao">esse texto vem....</blockquote>
+
+<a href="endereco da citacao"><cite>esse texto vem....</cite></a>
+
+*abreviacao
+<p>Estamos falando de <abbr title="Hyper Text Markup Language"></abbr></p>
+
+*glossario
+<dt>titulo</dt>
+<dd>texto</dd>
+<dd>texto</dd>
+<dd>texto</dd>
+<dd>texto</dd>
+
+*Representacao de codigo
+<code>if(x > y){}</code>
+
+<pre>
+<code>if(x > y){
+}
+</code>
+</pre>
+
+*Acessando arquivos locais
+<a href="./htmlRevisao.htm"></a>
+<a href="/assets/logoSerratec.png"></a>
+<a href="../aula01/abreviacao.html"></a>
+
+*Tabela
+tr = nova linha (table row)
+th = novo titulo de coluna (table header)
+td = novo dado (table data)
+<table>
+  <caption>Nome x Idade</caption>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Idade</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Marcos</td>
+      <td>31</td>
+    </tr>
+    <tr>
+      <td>Marcos</td>
+      <td>31</td>
+    </tr>
+    <tr>
+      <td>Marcos</td>
+      <td>31</td>
+    </tr>
+    <tr>
+      <td>Marcos</td>
+      <td>31</td>
+    </tr>   
+  </tbody>
+</table>
+
+*Meta para motores de busca (SEO)
+<meta nome="author" content="Marcos P Marques Correa">
+<meta nome="description" content="descrição que aparece na busca">
+
+<meta nome="robots" content="existem varias opcoes">
+    <meta nome="robots" content="nofollow">
+    <meta nome="robots" content="follow">
+    <meta nome="robots" content="noindex follow">
+    <meta nome="robots" content="noindex nofollow">
+    <meta nome="robots" content="index follow">
+    <meta nome="robots" content="index nofollow">
