@@ -81,7 +81,7 @@
 ✔️ [Banco de Dados](serratec.BancoDeDados/)</br>
 ✔️ [Modelagem de Sistemas](serratec.ModelagemDeSistemas/)</br>
 ✔️ [Programação Orientada a Objetos](serratec.ProgramacaoOrientadaobjetos/)</br>
-❌ Front End Essencial</br>
+✔️ [Front-end Essencial](serratec.FrontEndEssencial/)</br>
 ❌ Desenvolvimento API Restful</br>
 ❌ Desenvolvimento Wep</br>
 ❌ Desenvolvimento Mobile</br>
@@ -113,6 +113,9 @@
 - [**DBeaver**](https://dbeaver.io/)    [(*Documentação*)](https://dbeaver.com/docs/wiki/)
 - [**Visual Studio Code**](https://code.visualstudio.com/)    [*(Documentação)*](https://code.visualstudio.com/docs)
 - [**Eclipse**](https://www.eclipse.org/downloads/)    [*(Documentação)*](https://help.eclipse.org/2021-03/index.jsp)
+- [**Spring Boot**](https://spring.io/)    [(*Documentação*)](https://spring.io/projects/spring-boot)
+- [**Spring Tools 4**](https://spring.io/tools)    [(*Documentação*)](https://github.com/spring-projects/sts4/wiki)      
+- [**Postman**](https://www.postman.com/downloads/)    [(*Documentação*)](https://learning.postman.com/docs/getting-started/introduction/)
 - [**Oracle JDK**](https://www.oracle.com/br/java/technologies/javase-downloads.html)    [*(Documentação)*](https://docs.oracle.com/en/java/javase/16/)
 - [**UML Designer**](http://www.umldesigner.org/)    [*(Documentação)*](http://www.umldesigner.org/ref-doc/presentation.html)
 - [**Draw.io**](https://drawio-app.com/product/)    [*(Documentação)*](https://drawio-app.com/tutorials/)

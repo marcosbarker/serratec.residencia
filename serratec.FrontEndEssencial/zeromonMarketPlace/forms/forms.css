@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+  }
+
+ 
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+
+  input[type=submit] {
+    width: 10rem;
+    height: 25px;
+    border: none;
+    font-size: 15px;
+    font-family: rubik;
+    font-weight: bolder;
+    border-radius: 10px;
+    background-color: #FFCC00;
+    border: none;
+  }
+
+  input[type=submit]:hover{
+    position: static;
+    box-shadow: 10px 10px 50px 10px rgb(26, 85, 158, 60%);
+    color: rgb(26, 85, 158, 1);
+  }
+
+  .container-lg {
+    margin-top: 50px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+
+  .column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+  }
+
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+ 
+  @media screen and (max-width: 600px) {
+    .column, input[type=submit] {
+      width: 100%;
+      margin-top: 0;
+    }
+  }

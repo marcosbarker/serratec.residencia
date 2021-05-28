@@ -1,0 +1,94 @@
+* {
+  font-family: rubik;
+}
+
+body {
+  background: #EFEFBB;
+  background-image: linear-gradient(to right, rgb(230, 218, 218),rgb(239, 187, 230), rgba(153, 218, 255, 0.822),rgba(255, 254, 168, 0.822)80%);
+}
+
+body h1 {
+  text-align: center;
+  font-size: x-large;
+  font-weight: bolder;
+  margin-top: 25px;
+}
+
+.carousel-indicators{
+  margin-left: 0 !important;
+}
+
+#subirTopo {
+  text-decoration: none;
+  background:#252833;
+  bottom: 30px;
+  right: 30px;
+  color: #fff;
+  text-align: center;
+  cursor: pointer;
+  padding: 15px;
+  font-size: 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+  position: fixed;
+  border: 0;
+  font-family: sans-serif;
+  opacity: .8;
+  background-color: #FBAF01;
+  border-radius: 65px;
+  bottom: 14px;
+  box-shadow: 2px 3px 19px -2px rgba(0, 0, 0, .75);
+  color: #ff0000;
+  cursor: pointer;
+  height: 40px;
+  position: fixed;
+  right: 22px;
+  width: 40px;
+  z-index: 3;
+  }
+  
+  #subirTopo:hover {
+  opacity:1;
+  }
+  
+  #btnCompra{
+    max-width: 10rem;
+    height: 25px;
+    border: none;
+    font-size: 15px;
+    font-family: rubik;
+    font-weight: bolder;
+    border-radius: 10px;
+    background-color: #FFCC00;
+    border: none;
+  }
+  
+  #btnCompra:hover{
+    position: static;
+    box-shadow: 10px 10px 50px 10px rgb(26, 85, 158, 60%);
+    color: rgb(26, 85, 158, 1);
+  }
+
+footer {
+  margin-top: 20px;
+  display: block;
+  width: 100%;
+}
+
+footer div a i img {
+  width: 40px;
+  border-radius: 5px;
+}
+
+footer div a {
+  color: transparent;
+}
+
+.p-4 {
+  /*Background Copyright*/
+  background-color: #252833;
+}
+
+p {
+  text-align: justify;
+}

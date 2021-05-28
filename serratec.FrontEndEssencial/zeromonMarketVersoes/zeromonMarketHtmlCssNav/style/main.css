@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.zeromon img {
+  margin-left: 38%;
+  margin-right: 38%;
+  /* Fazer calc do cabeçalho depois*/
+  width: 350px;
+}
+
+.zeromon h2 {
+  /* Fazer calc do cabeçalho depois*/
+  text-align: center;
+  font-size: medium;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+div.box {
+  padding-top: 25px;
+  margin-left: 45px;
+  display: inline-block;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
+.navbar {
+  font-size: 25px;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  background-color: transparent;
+}
+
+.nav-car{
+  margin-left: 400px;
+}
+.nav-car img{
+  width: 50px;
+}
+
+#textoNavbar ul button:hover {
+  background-color: #0099ff;
+  color: rgb(255, 255, 255) !important;
+  cursor: pointer;
+}
+
+#textoNavbar ul button {
+  border-radius: 5px;
+  border: none;
+  background-color: transparent;
+  font-weight: bolder;
+}
+
+
+.nav-link {
+  color: black !important;
+}
+
+.navbar-nav {
+  padding-right: 0;
+  padding-left: 30% !important;
+  padding-right: 30% !important;
+}
+
+*/

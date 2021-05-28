@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../assets/favicon.png">
+    <link rel="shortcut icon" href="../../zeromonMarketHtmlCss1.1/assets/favicon.png">
+    <link rel="shortcut icon" href="../assets/favicon.png">
+    <link rel="stylesheet" href="../global/style/main.css">
+    <link rel="stylesheet" href="../global/style/navbar.css">
+    <link rel="stylesheet" href="../carrinhoDeCompras/carrinho.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <title>Zeromon Market</title>
+</head>
+<body>
+    <header>
+        <div class="topnav" id="myTopnav">
+            <a class="active"><img width="80px" src="../assets/logoZeromon.png" alt="Zeremon Home"></a>
+            <a href="../index.html">Home</a>
+            <div class="dropdown">
+                <button class="dropbtn">Cartas
+                    <i class="fa fa-caret-down"></i>
+                </button>
+                <div class="dropdown-content">
+                    <a  href="#">Grass</a>
+                    <a  href="#">Poison</a>
+                    <a  href="#">Fire</a>
+                    <a  href="#">Flying</a>
+                    <a  href="#">Water</a>
+                    <a  href="#">Bug</a>
+                    <a  href="#">Eletric</a>
+                    <a  href="#">Ground</a>
+                    <a  href="#">Dairy</a>
+                    <a  href="#">Fighting</a>
+                    <a  href="#">Psychic</a>
+                    <a  href="#">Rock</a>
+                    <a  href="#">Steel</a>
+                    <a  href="#">Ice</a>
+                    <a  href="#">Ghost</a>
+                    <a  href="#">Dragon</a>
+                </div>
+            </div>
+            <a href="#about">Sobre nós</a>
+            <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+        </div>
+
+        <script>
+            function myFunction() {
+                var x = document.getElementById("myTopnav");
+                if (x.className === "topnav") {
+                    x.className += " responsive";
+                } else {
+                    x.className = "topnav";
+                }
+            }
+        </script>
+
+    </header>
+    <h1>Carrinho de Compras</h1>
+    <div class="container-fluid">
+        <div class="form-inline">
+            <div class="form-group">
+                <input type="text" class="form-control" id="desc" placeholder="Nome do Pokemon">
+            </div>
+            <div class="form-group">
+                <input type="text" class="form-control" id="amount" placeholder="Quantidade">
+            </div>
+            <div class="form-group">
+                <input type="text" class="form-control" id="value" placeholder="Preço">
+            </div>
+            <span id="btnUpdate" style="display: none;">
+                <span id="inputIDUpdate"></span>
+                <button onclick="updateData();" class="btn btn-default">Salvar/button>
+                <button onclick="resetForm();" class="btn btn-default">Cancelar</button>
+            </span>
+            <span id="btnAdd">
+                <button onclick="addData();" class="btn btn-default">Adicionar</button>
+                <button onclick="resetForm();" class="btn btn-default">Resetar</button>
+                <button onclick="deleteList();" class="btn btn-default">Deletar item</button>
+            </span>
+        </div>
+
+        <div id="errors" style="display: none;"></div>
+
+        <table id="listTable" class="table">
+
+        </table>
+    </div>
+
+    <nav class="navbar navbar-default navbar-fixed-bottom">
+        <div class="container">
+            <h4 class="text-center text-success">Total: <span id="totalValue">$ 0,00</span></h4>
+        </div>
+    </nav>
+
+    <script type="text/javascript" src="js/config.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+
+    <footer class="text-center text-lg-start bg-light text-muted">
+        <div style="background-color: #282b37;">
+            <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
+                <div class="me-5 d-none d-lg-block">
+                    <span>Integrantes da Zeréssemos:</span>
+                </div>
+                <div>
+                    <a href="https://www.linkedin.com/in/volnei-paulino-neves-filho-495a84168/" target="_blank">
+                        <i class="github"><img src="https://unavatar.now.sh/github/Volneineves"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/in/fredericostilpen/" target="_blank">
+                        <i class="github"><img src="https://unavatar.now.sh/github/FredericoStilpen"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/in/marcos-paulo-marques-corr%C3%AAa-gomes/" target="_blank">
+                        <i class="github"><img src="https://unavatar.now.sh/github/marcosbarker"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/in/gabriel-macedo-ara%C3%BAjo-951603165/" target="_blank">
+                        <i class="github"><img src="https://unavatar.now.sh/github/M4G1Ck"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/in/jpbade/" target="_blank">
+                        <i class="github"><img src="https://unavatar.now.sh/github/JpBade"></i>
+                    </a>
+                </div>
+            </section>
+            <section class="">
+                <div class="container text-center text-md-start mt-5">
+                    <div class="row mt-3">
+
+                        <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+
+                            <h6 class="text-uppercase fw-bold mb-4">
+                                <i class="fas fa-gem me-3" id="about"></i>Sobre nós
+                            </h6>
+                            <p>
+                                Baseado na equipe Rocket, a Zeréssemos Company veio para proteger o mundo da devastação!
+                                Para unir as pessoas de nossa nação! Pra denunciar os males da verdade e do amor! Pra
+                                estender nosso poder as estrelas! Caio, Fred, JP, Gabriel, Marcos e Volnei! Equipe
+                                Zeréssemos decolando na velocidade da Luz! Renda-se Agora ou prepare-se Para Lutar!
+                            </p>
+                        </div>
+                        <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+
+                            <h6 class="text-uppercase fw-bold mb-4">
+                                Pokemons
+                            </h6>
+                            <p>
+                                <a href="../index.html" class="text-reset">Home</a>
+                            </p>
+                            <p>
+                                <a href="" class="text-reset">Cartas</a>
+                            </p>
+                        </div>
+
+                        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+
+                            <h6 class="text-uppercase fw-bold mb-4">
+                                Links interessantes
+                            </h6>
+                            <p>
+                                <a href="https://github.com/OsZeressemos" class="text-reset">GitHub</a>
+                            </p>
+                            <p>
+                                <a href="https://www.pokemon.com/br/pokedex/" class="text-reset">Pokédex</a>
+                            </p>
+                            <p>
+                                <a href="http://pudim.com.br/" class="text-reset">Pudim</a>
+                            </p>
+                        </div>
+
+                        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+                            <h6 class="text-uppercase fw-bold mb-4">
+                                Contato
+                            </h6>
+                            <p>
+                            <address>Petrópolis, Rio de Janeiro, BR</address>
+                            </p>
+                            <p>
+                                <a href="mailto:zeressemos@tech.com" class="text-reset">zeressemos@tech.com</a>
+                            </p>
+                            <p>
+                                <a href="https://www.instagram.com/zeressemos_company/" class="text-reset" target="_blank">Instagram</a>
+                            </p>
+                            <p>
+                                <a href="https://www.facebook.com/Pokemon" class="text-reset" target="_blank">Faceboook</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div class="text-center p-4">
+                © 2021 Copyright:
+                <a class="text-reset fw-bold" href="https://github.com/OsZeressemos">zeressemos.com</a>
+            </div>
+        </div>
+    </footer>
+</body>
+<script src="js/config.js"></script>
+<script src="js/main.js"></script>
+</html>
