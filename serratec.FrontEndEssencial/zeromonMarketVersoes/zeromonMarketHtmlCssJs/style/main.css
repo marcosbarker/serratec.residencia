@@ -1,0 +1,148 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  width: 100%;
+  font-family: rubik;
+}
+
+body {
+  background: #EFEFBB;
+  background-image: linear-gradient(to right, rgb(230, 218, 218),rgb(239, 187, 230), rgba(153, 218, 255, 0.822),rgba(255, 254, 168, 0.822)80%);
+}
+
+body h1 {
+  text-align: center;
+  font-size: x-large;
+  font-weight: bolder;
+  margin-top: 25px;
+}
+
+header {
+  /*display: block;*/
+  background-image: url(../assets/wallpaperPokemonOpaco.jpg);
+}
+
+.zeromon img {
+  margin: 1% 38% 0% 38%;
+  width: 350px;
+}
+
+/*.zeromon img {
+  margin-right: calc(50% - 350px/2);
+  margin-left: calc(50% - 350px/2);
+  width: 350px;
+  padding-top: 25px;
+}*/
+
+/*
+.zeromon h2 {
+  text-align: center;
+  font-size: medium;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+*/
+
+.navbar {
+  font-size: 20px;
+  /*font-family: 'Ubuntu', sans-serif;*/
+  font-weight: bold;
+  background-color: #4ed1f1;
+}
+
+div.box {
+  margin-top: 25px;
+  margin-left: 80px;
+  display: inline-block;
+  text-align: center;
+}
+/*
+div.box a:-webkit-any-link {
+  color: black;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: large;
+  font-weight: bolder;
+}
+*/
+
+.nav-link {
+  color: black !important;
+}
+
+.navbar-nav {
+  height: 35px;
+  padding-left: 30% !important;
+  padding-right: 30% !important;
+  
+}
+
+#textoNavbar ul button {
+  border-radius: 5px;
+  border: none;
+  background-color: transparent;
+  font-weight: bolder;
+}
+
+#textoNavbar ul button:hover {
+  background-color: #0099ff;
+  color: rgb(255, 255, 255) !important;
+  cursor: pointer;
+}
+
+.nav-car {
+  margin-left: 230px;
+  margin-inline-end: auto;
+}
+
+.nav-car img {
+  width: 50px;
+}
+
+footer {
+  margin-top: 20px;
+  display: block;
+  width: 100%;
+}
+
+footer div a i img {
+  width: 40px;
+  border-radius: 5px;
+}
+
+footer div a {
+  color: transparent;
+}
+
+.p-4 {
+  /*Background Copyright*/
+  background-color: #252833;
+}
+
+p {
+  text-align: justify;
+}
+
+.textConfig{
+  margin-bottom: 50px;
+}
+.textConfig h3{
+  font-size: larger;
+  font-weight: bolder;
+}
+.textConfig p{
+  font-size: larger;
+  font-weight: bolder;
+}
+.textConfig li{
+  font-size: larger;
+}
+
+#btn-compra{
+  background-image: url(../assets/buy.png);
+}
+
+.integrantes{
+  width: px;
+}

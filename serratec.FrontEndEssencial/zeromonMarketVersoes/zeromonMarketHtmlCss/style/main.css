@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.05), rgba(153, 218, 255, 0.822)100%); 
+}
+
+#top{
+  margin-top: 300px;
+}
+
+header{
+  display: block;
+  position: fixed;
+  width: 100%;
+  background-image: url(../assets/wallpaperPokemonOpaco.jpg);
+}
+
+.zeromon img {
+  margin: 1% 38% 0% 38%;
+  width: 350px;
+}
+
+.zeromon h2 {
+  text-align: center;
+  font-size: medium;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+.navbar {
+  font-size: 25px;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  background-color: #4ed1f1;
+}
+
+div.box {
+  margin-top: 25px;
+  margin-left: 80px;
+  display: inline-block;
+  text-align: center;
+}
+
+div.box a:-webkit-any-link {
+  color: black;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: large;
+  font-weight: bolder;
+}
+
+.nav-link {
+  color: black !important;
+}
+
+.navbar-nav {
+  padding-right: 0;
+  padding-left: 30% !important;
+  padding-right: 30% !important;
+}
+
+#textoNavbar ul button {
+  border-radius: 5px;
+  border: none;
+  background-color: transparent;
+  font-weight: bolder;
+}
+
+#textoNavbar ul button:hover {
+  background-color: #0099ff;
+  color: rgb(255, 255, 255) !important;
+  cursor: pointer;
+}
+
+.nav-car{
+  margin-left: 230px;
+}
+
+.nav-car img{
+  width: 50px;
+}
