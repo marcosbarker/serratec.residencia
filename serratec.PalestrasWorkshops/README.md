@@ -131,10 +131,31 @@
   </p>
 </details>
 
+<details> 
+  <summary>✔️ Por que aprender a programar?&nbsp;&nbsp;&nbsp;&nbsp;<i>(29/05/2021)</i></summary>
+    <h4>
+      <p align="justify">
+      <b>Palestrante:</b>    Helder da Rocha
+        </br></br>
+          Helder da Rocha, programador Full Stack, professor, escritor, artista, engenheiro e tradutor. Irá apresentar Por que aprender a programar?.
+        </br>
+      </p>
+  <p align="center">
+  <img height="30px" src="../assets/coin.gif">
+    <a href="https://youtu.be/An8rREVO_GQ" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    <a href="materialApresentado/">(Material Apresentado)</a>&nbsp;&nbsp;
+  </h4>
+  </p>
+  <p align="center">
+    <img height="300px" src="assets/pqProgramar.jpg">
+  </p>
+</details>
+
 *Totalizando 31h*
 
 </br>
 
+<!--
 <p align="center">
   <img align="center" height="400px" src="../assets/osZeressemosProTeam.png"> 
 </p>
@@ -190,3 +211,4 @@
       </a><br>
     </td>
 </table>
+-->
