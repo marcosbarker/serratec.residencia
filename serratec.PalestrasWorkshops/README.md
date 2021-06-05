@@ -1,3 +1,4 @@
+<a name="back-to-top">
 <p align="center">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="80px" src="../assets/logoSerratec.png" alt="logo serratec"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="100px" src="../assets/osZeressemosProTeam.png" alt="logo serratec"/>
 </p>
@@ -8,7 +9,7 @@
 
 ## <img  height="40px" align="center" src="../assets/colorBlock.gif"> Palestras
 
-<details> 
+<details>
   <summary>✔️ Scrum na Prática&nbsp;&nbsp;&nbsp;&nbsp;<i>(10/04/2021)</i></summary>
     <h4>
       <p align="justify">
@@ -18,9 +19,8 @@
         </br>
       </p>
   <p align="center">
-    <img height="30px" src="../assets/coin.gif">
-    <a href="https://www.youtube.com/watch?v=EpZfR_tlkp0&t=8039s" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
-    <a href="materialApresentado/scrumNaPratica">(Material Apresentado)</a>
+    🎬<a href="https://www.youtube.com/watch?v=EpZfR_tlkp0&t=8039s" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/scrumNaPratica">(Material Apresentado)</a>
   </h4>
   </p>
   <p align="center">
@@ -38,9 +38,8 @@
         </br>
       </p>
   <p align="center">
-  <img height="30px" src="../assets/coin.gif">
-    <a href="https://www.youtube.com/watch?v=h8pcq5HkXIs" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
-    <a href="materialApresentado/comoAtenderDiversidade">(Material Apresentado)</a>
+    🎬<a href="https://www.youtube.com/watch?v=h8pcq5HkXIs" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/comoAtenderDiversidade">(Material Apresentado)</a>
   </h4>
   </p>
   <p align="center">
@@ -59,10 +58,9 @@
         </br>
       </p>
   <p align="center">
-  <img height="30px" src="../assets/coin.gif">
-    <a href="https://youtu.be/LomAzSTLCQQ" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
-    <a href="materialApresentado/aiMachineLearningDeepLearning">(Material Apresentado)</a>&nbsp;&nbsp;
-    <a href="materialApresentado/aiMachineLearningDeepLearning/palestra_ai_ml_dl.py">(Código Python)</a>&nbsp;&nbsp;      
+    🎬<a href="https://youtu.be/LomAzSTLCQQ" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/aiMachineLearningDeepLearning">(Material Apresentado)</a>&nbsp;&nbsp;
+    🐍<a href="materialApresentado/aiMachineLearningDeepLearning/palestra_ai_ml_dl.py">(Código Python)</a>&nbsp;&nbsp;      
     <a href="https://colab.research.google.com/github/marcosbarker/serratec.residencia/blob/marcosbarker/palestra_ai_ml_dl.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
   </h4>
   </p>
@@ -101,9 +99,8 @@
         </br>
       </p>
   <p align="center">
-  <img height="30px" src="../assets/coin.gif">
-    <a href="https://youtu.be/dsBkU4VAfy8" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
-    <a href="materialApresentado/businessIntelligence">(Material Apresentado)</a>&nbsp;&nbsp;
+    🎬<a href="https://youtu.be/dsBkU4VAfy8" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/businessIntelligence">(Material Apresentado)</a>&nbsp;&nbsp;
   </h4>
   </p>
   <p align="center">
@@ -121,9 +118,8 @@
         </br>
       </p>
   <p align="center">
-  <img height="30px" src="../assets/coin.gif">
-    <a href="https://youtu.be/yRDJWsufMaM" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
-    <a href="materialApresentado/aml">(Material Apresentado)</a>&nbsp;&nbsp;
+    🎬<a href="https://youtu.be/yRDJWsufMaM" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/aml">(Material Apresentado)</a>&nbsp;&nbsp;
   </h4>
   </p>
   <p align="center">
@@ -137,17 +133,35 @@
       <p align="justify">
       <b>Palestrante:</b>    Helder da Rocha
         </br></br>
-          Helder da Rocha, programador Full Stack, professor, escritor, artista, engenheiro e tradutor. Irá apresentar Por que aprender a programar?.
+          Helder da Rocha, programador Full Stack, professor, escritor, artista, engenheiro e tradutor. Irá apresentar Por que aprender a programar?
         </br>
       </p>
   <p align="center">
-  <img height="30px" src="../assets/coin.gif">
-    <a href="https://youtu.be/An8rREVO_GQ" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
-    <a href="materialApresentado/">(Material Apresentado)</a>&nbsp;&nbsp;
+    🎬<a href="https://youtu.be/An8rREVO_GQ" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/">(Material Apresentado)</a>&nbsp;&nbsp;
   </h4>
   </p>
   <p align="center">
     <img height="300px" src="assets/pqProgramar.jpg">
+  </p>
+</details>
+
+<details> 
+  <summary>✔️ A importância da Qualidade no desenvolvimento de software?&nbsp;&nbsp;&nbsp;&nbsp;<i>(05/06/2021)</i></summary>
+    <h4>
+      <p align="justify">
+      <b>Palestrante:</b>    Ana Paula Oliveira, Mariana Pacheco, Paola Lemos.
+        </br></br>
+          Com Ana Paula Oliveira, coordenadora da de IT na iLAB, Mariana Pacheco, QA Chapter, e Paola Lemos, QA Chapter. Apresentaram A importância da Qualidade no desenvolvimento de software?
+        </br>
+      </p>
+  <p align="center">
+    🎬<a href="https://youtu.be/An8rREVO_GQ" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/qualidadeDesenSoftware">(Material Apresentado)</a>&nbsp;&nbsp;
+  </h4>
+  </p>
+  <p align="center">
+    <img height="300px" src="assets/qualidadeDesenSoftware.jpeg">
   </p>
 </details>
 
@@ -212,3 +226,7 @@
     </td>
 </table>
 -->
+
+</br>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬆️[**Back to top**](#back-to-top)⬆️
