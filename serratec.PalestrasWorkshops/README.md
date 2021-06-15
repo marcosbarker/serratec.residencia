@@ -167,8 +167,8 @@
         </br>
       </p>
   <p align="center">
-    🎬<a href="" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
-    📚<a href="materialApresentado/">(Material Apresentado)</a>&nbsp;&nbsp;
+    🎬<a href="https://youtu.be/g9nJeWyWUbU" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/">(<s>Material Apresentado</s>)</a>&nbsp;&nbsp;
   </h4>
   </p>
   <p align="center">
