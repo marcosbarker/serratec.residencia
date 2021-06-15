@@ -86,7 +86,7 @@
 ❌ Desenvolvimento Web</br>
 ❌ Desenvolvimento Mobile</br>
 ❌ Projeto Aplicado</br>
-❌ Integração de Competência</br
+❌ Integração de Competência</br>>
 ❌ Mentoria de Carreira</br>
 ❌ Inglês Instrumental</br>
 ❌ Maratona de Programação</br>
