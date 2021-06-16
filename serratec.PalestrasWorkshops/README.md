@@ -175,6 +175,42 @@
     <img height="300px" src="assets/carreiraDeSucesso.jpeg">
   </p>
 </details>
+<details> 
+  <summary>✔️ A importância da Qualidade no desenvolvimento de software?&nbsp;&nbsp;&nbsp;&nbsp;<i>(05/06/2021)</i></summary>
+    <h4>
+      <p align="justify">
+      <b>Palestrante:</b>    Ana Paula Oliveira, Mariana Pacheco, Paola Lemos.
+        </br></br>
+          Com Ana Paula Oliveira, coordenadora da de IT na iLAB, Mariana Pacheco, QA Chapter, e Paola Lemos, QA Chapter. Apresentaram A importância da Qualidade no desenvolvimento de software?
+        </br>
+      </p>
+  <p align="center">
+    🎬<a href="https://youtu.be/e_-s4xF1Ip8" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/qualidadeDesenSoftware">(Material Apresentado)</a>&nbsp;&nbsp;
+  </h4>
+  </p>
+  <p align="center">
+    <img height="300px" src="assets/qualidadeDesenSoftware.jpeg">
+  </p>
+</details>
+<details> 
+  <summary>✔️ "Iot, IIot, IoE??? Internet of... ¯\_(ツ)_/".&nbsp;&nbsp;&nbsp;&nbsp;<i>(19/06/2021)</i></summary>
+    <h4>
+      <p align="justify">
+      <b>Palestrante:</b>    Luis Henrique M. Carvalho.
+        </br></br>
+          Luis Henrique M. Carvalho, Researcher e CTO da IDK Digital. Irá apresentar  "Iot, IIot, IoE??? Internet of... ¯\_(ツ)_/". 
+        </br>
+      </p>
+  <p align="center">
+    🎬<a href="" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/">(<s>Material Apresentado</s>)</a>&nbsp;&nbsp;
+  </h4>
+  </p>
+  <p align="center">
+    <img height="300px" src="assets/InternetOf.jpeg">
+  </p>
+</details>
 
 *Totalizando 31h*
 
