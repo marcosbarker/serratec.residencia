@@ -82,8 +82,8 @@
 ✔️ [Modelagem de Sistemas](serratec.ModelagemDeSistemas/)</br>
 ✔️ [Programação Orientada a Objetos](serratec.ProgramacaoOrientadaobjetos/)</br>
 ✔️ [Front-end Essencial](serratec.FrontEndEssencial/)</br>
-❌ Desenvolvimento API Restful</br>
-❌ Desenvolvimento Wep</br>
+✔️ [Desenvolvimento API Restful](serratec.desenvolvimentoAPI-Restful/)</br>
+❌ Desenvolvimento Web</br>
 ❌ Desenvolvimento Mobile</br>
 ❌ Projeto Aplicado</br>
 ❌ Integração de Competência</br>

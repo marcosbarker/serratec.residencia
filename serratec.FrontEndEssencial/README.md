@@ -12,10 +12,10 @@
 
 ✔️ Conhecer os pilares de uma aplicação web, identificar a diferença entre HTML, CSS e JavaScript;</br>
 ✔️ Saber escrever um documento HTML com suas principais tags;</br>
-✔️ Fazer um arquivo CSS com suas propriedades básicas: margin , width . height padding , color, background, border e outros;</br>
+✔️ Fazer um arquivo CSS com suas propriedades básicas: margin, width, height padding, color, background, border e outros;</br>
 ✔️ Utilizar seletores do CSS, conhecendo suas especificidades;</br>
-✔️ Saber fatiar um layout, criar uma tela entendendo como funcionam os principais displays: block , inline ,none ,flex e etc;</br>
-✔️ Conhecer o grid system do bootstrap e as principais classes para utilização em alert , buttons , modais, group e outros;</br>
+✔️ Saber fatiar um layout, criar uma tela entendendo como funcionam os principais displays: block, inline, none, flex e etc;</br>
+✔️ Conhecer o grid system do bootstrap e as principais classes para utilização em alert, buttons, modais, group e outros;</br>
 ✔️ Saber utilizar os conceitos básicos de lógica de programação em JavaScript (variáveis, condicionais, loops, escopos, referência, entre outros);</br>
 ✔️ Conhecer o DOM, capturar elementos, manipular elementos;</br>
 ✔️ Conhecer Ecma6, arrow function e class;</br>

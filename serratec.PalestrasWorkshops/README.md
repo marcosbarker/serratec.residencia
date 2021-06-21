@@ -8,7 +8,7 @@
 
 ## <img  height="40px" align="center" src="../assets/colorBlock.gif"> Palestras
 
-<details> 
+<details>
   <summary>✔️ Scrum na Prática&nbsp;&nbsp;&nbsp;&nbsp;<i>(10/04/2021)</i></summary>
     <h4>
       <p align="justify">
@@ -18,9 +18,8 @@
         </br>
       </p>
   <p align="center">
-    <img height="30px" src="../assets/coin.gif">
-    <a href="https://www.youtube.com/watch?v=EpZfR_tlkp0&t=8039s" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
-    <a href="materialApresentado/scrumNaPratica">(Material Apresentado)</a>
+    🎬<a href="https://www.youtube.com/watch?v=EpZfR_tlkp0&t=8039s" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/scrumNaPratica">(Material Apresentado)</a>
   </h4>
   </p>
   <p align="center">
@@ -38,16 +37,14 @@
         </br>
       </p>
   <p align="center">
-  <img height="30px" src="../assets/coin.gif">
-    <a href="https://www.youtube.com/watch?v=h8pcq5HkXIs" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
-    <a href="materialApresentado/comoAtenderDiversidade">(Material Apresentado)</a>
+    🎬<a href="https://www.youtube.com/watch?v=h8pcq5HkXIs" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/comoAtenderDiversidade">(Material Apresentado)</a>
   </h4>
   </p>
   <p align="center">
     <img height="300px" src="assets/comoAtenderDiversidade.jpeg">
   </p>
 </details>
-
 <details> 
   <summary>✔️ AI, Machine Learning e Deep Learning&nbsp;&nbsp;&nbsp;&nbsp;<i>(24/04/2021)</i></summary>
     <h4>
@@ -59,10 +56,9 @@
         </br>
       </p>
   <p align="center">
-  <img height="30px" src="../assets/coin.gif">
-    <a href="https://youtu.be/LomAzSTLCQQ" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
-    <a href="materialApresentado/aiMachineLearningDeepLearning">(Material Apresentado)</a>&nbsp;&nbsp;
-    <a href="materialApresentado/aiMachineLearningDeepLearning/palestra_ai_ml_dl.py">(Código Python)</a>&nbsp;&nbsp;      
+    🎬<a href="https://youtu.be/LomAzSTLCQQ" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/aiMachineLearningDeepLearning">(Material Apresentado)</a>&nbsp;&nbsp;
+    🐍<a href="materialApresentado/aiMachineLearningDeepLearning/palestra_ai_ml_dl.py">(Código Python)</a>&nbsp;&nbsp;      
     <a href="https://colab.research.google.com/github/marcosbarker/serratec.residencia/blob/marcosbarker/palestra_ai_ml_dl.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
   </h4>
   </p>
@@ -70,7 +66,6 @@
     <img height="300px" src="assets/aiMachineLearningDeepLearning.jpeg">
   </p>
 </details>
-
 <details> 
   <summary>✔️ Conceitos de Business Intelligence&nbsp;&nbsp;&nbsp;&nbsp;<i>(08/05/2021)</i></summary>
     <h4>
@@ -90,7 +85,6 @@
     <img height="300px" src="assets/conceitosBI.jpeg">
   </p>
 </details>
-
 <details> 
   <summary>✔️ Storytelling com Dados&nbsp;&nbsp;&nbsp;&nbsp;<i>(15/05/2021)</i></summary>
     <h4>
@@ -101,16 +95,14 @@
         </br>
       </p>
   <p align="center">
-  <img height="30px" src="../assets/coin.gif">
-    <a href="https://youtu.be/dsBkU4VAfy8" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
-    <a href="materialApresentado/businessIntelligence">(Material Apresentado)</a>&nbsp;&nbsp;
+    🎬<a href="https://youtu.be/dsBkU4VAfy8" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/businessIntelligence">(Material Apresentado)</a>&nbsp;&nbsp;
   </h4>
   </p>
   <p align="center">
     <img height="300px" src="assets/storytellingComDados.jpeg">
   </p>
 </details>
-
 <details> 
   <summary>✔️ ALM - Controle de Ciclo de Vida de Projetos&nbsp;&nbsp;&nbsp;&nbsp;<i>(22/05/2021)</i></summary>
     <h4>
@@ -121,72 +113,108 @@
         </br>
       </p>
   <p align="center">
-  <img height="30px" src="../assets/coin.gif">
-    <a href="https://youtu.be/yRDJWsufMaM" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
-    <a href="materialApresentado/aml">(Material Apresentado)</a>&nbsp;&nbsp;
+    🎬<a href="https://youtu.be/yRDJWsufMaM" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/aml">(Material Apresentado)</a>&nbsp;&nbsp;
   </h4>
   </p>
   <p align="center">
     <img height="300px" src="assets/alm.jpeg">
   </p>
 </details>
+<details> 
+  <summary>✔️ Por que aprender a programar?&nbsp;&nbsp;&nbsp;&nbsp;<i>(29/05/2021)</i></summary>
+    <h4>
+      <p align="justify">
+      <b>Palestrante:</b>    Helder da Rocha
+        </br></br>
+          Helder da Rocha, programador Full Stack, professor, escritor, artista, engenheiro e tradutor. Irá apresentar Por que aprender a programar?
+        </br>
+      </p>
+  <p align="center">
+    🎬<a href="https://youtu.be/An8rREVO_GQ" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/">(Material Apresentado)</a>&nbsp;&nbsp;
+  </h4>
+  </p>
+  <p align="center">
+    <img height="300px" src="assets/pqProgramar.jpg">
+  </p>
+</details>
+<details> 
+  <summary>✔️ A importância da Qualidade no desenvolvimento de software?&nbsp;&nbsp;&nbsp;&nbsp;<i>(05/06/2021)</i></summary>
+    <h4>
+      <p align="justify">
+      <b>Palestrante:</b>    Ana Paula Oliveira, Mariana Pacheco, Paola Lemos.
+        </br></br>
+          Com Ana Paula Oliveira, coordenadora da de IT na iLAB, Mariana Pacheco, QA Chapter, e Paola Lemos, QA Chapter. Apresentaram A importância da Qualidade no desenvolvimento de software?
+        </br>
+      </p>
+  <p align="center">
+    🎬<a href="https://youtu.be/e_-s4xF1Ip8" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/qualidadeDesenSoftware">(Material Apresentado)</a>&nbsp;&nbsp;
+  </h4>
+  </p>
+  <p align="center">
+    <img height="300px" src="assets/qualidadeDesenSoftware.jpeg">
+  </p>
+</details>
+<details> 
+  <summary>✔️ Carreira de Sucesso: desenvolva sua melhor versão.&nbsp;&nbsp;&nbsp;&nbsp;<i>(12/06/2021)</i></summary>
+    <h4>
+      <p align="justify">
+      <b>Palestrante:</b>    Ladmir Carvalho.
+        </br></br>
+          Com Ladmir Carvalho, Presidente e fundador da Alterdata Software. Irá apresentar Carreira de Sucesso: desenvolva sua melhor versão. 
+        </br>
+      </p>
+  <p align="center">
+    🎬<a href="https://youtu.be/g9nJeWyWUbU" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/">(<s>Material Apresentado</s>)</a>&nbsp;&nbsp;
+  </h4>
+  </p>
+  <p align="center">
+    <img height="300px" src="assets/carreiraDeSucesso.jpeg">
+  </p>
+</details>
+<details> 
+  <summary>✔️ A importância da Qualidade no desenvolvimento de software?&nbsp;&nbsp;&nbsp;&nbsp;<i>(05/06/2021)</i></summary>
+    <h4>
+      <p align="justify">
+      <b>Palestrante:</b>    Ana Paula Oliveira, Mariana Pacheco, Paola Lemos.
+        </br></br>
+          Com Ana Paula Oliveira, coordenadora da de IT na iLAB, Mariana Pacheco, QA Chapter, e Paola Lemos, QA Chapter. Apresentaram A importância da Qualidade no desenvolvimento de software?
+        </br>
+      </p>
+  <p align="center">
+    🎬<a href="https://youtu.be/e_-s4xF1Ip8" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/qualidadeDesenSoftware">(Material Apresentado)</a>&nbsp;&nbsp;
+  </h4>
+  </p>
+  <p align="center">
+    <img height="300px" src="assets/qualidadeDesenSoftware.jpeg">
+  </p>
+</details>
+<details> 
+  <summary>✔️ "Iot, IIot, IoE??? Internet of... ¯\_(ツ)_/".&nbsp;&nbsp;&nbsp;&nbsp;<i>(19/06/2021)</i></summary>
+    <h4>
+      <p align="justify">
+      <b>Palestrante:</b>    Luis Henrique M. Carvalho.
+        </br></br>
+          Luis Henrique M. Carvalho, Researcher e CTO da IDK Digital. Irá apresentar  "Iot, IIot, IoE??? Internet of... ¯\_(ツ)_/". 
+        </br>
+      </p>
+  <p align="center">
+    🎬<a href="" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/">(<s>Material Apresentado</s>)</a>&nbsp;&nbsp;
+  </h4>
+  </p>
+  <p align="center">
+    <img height="300px" src="assets/InternetOf.jpeg">
+  </p>
+</details>
 
 *Totalizando 31h*
 
 </br>
-
-<p align="center">
-  <img align="center" height="400px" src="../assets/osZeressemosProTeam.png"> 
-</p>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/raiocodrigues">
-        <img src="https://avatars.githubusercontent.com/u/82115790?v=4" width="100px;" alt="Avatar Caio Rodrigues"/><br>
-        <sub>
-          <b>Caio Rodrigues</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/FredericoStilpen">
-        <img src="https://avatars.githubusercontent.com/u/82114348?v=4" width="100px;" alt="Avatar Frederico Stilpen"/><br>
-        <sub>
-          <b>Frederico Stilpen</b>
-        </sub>
-      </a><br>
-    </td>
-    <td align="center">
-      <a href="https://github.com/M4G1Ck">
-        <img src="https://avatars.githubusercontent.com/u/79328112?v=4" width="100px;" alt="Avatar Gabriel Macedo Araújo"/><br>
-        <sub>
-          <b>Gabriel Macedo Araújoo</b>
-        </sub>
-      </a><br>
-    </td>
-    <td align="center">
-      <a href="https://github.com/JpBade">
-        <img src="https://avatars.githubusercontent.com/u/82114843?v=4" width="100px;" alt="Avatar João Paulo Bade"/><br>
-        <sub>
-          <b>João Paulo Bade</b>
-        </sub>
-      </a><br>
-    </td>
-    <td align="center">
-      <a href="https://github.com/marcosbarker">
-        <img src="https://avatars.githubusercontent.com/u/57602117?v=4" width="100px;" alt="Avatar Marcos Paulo Marques Corrêa"/><br>
-        <sub>
-          <b>Marcos Paulo Marques Corrêa</b>
-        </sub>
-      </a><br>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Volneineves">
-        <img src="https://avatars.githubusercontent.com/u/82004090?v=4" width="100px;" alt="Avatar Volnei Neves"/><br>
-        <sub>
-          <b>Volnei Neves</b>
-        </sub>
-      </a><br>
-    </td>
-</table>
+<!--
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬆️[**Back to top**](#back-to-top)⬆️
+-->
