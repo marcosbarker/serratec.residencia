@@ -132,7 +132,7 @@
       </p>
   <p align="center">
     🎬<a href="https://youtu.be/An8rREVO_GQ" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
-    📚<a href="materialApresentado/">(Material Apresentado)</a>&nbsp;&nbsp;
+    📚<a href="materialApresentado/">(<s>Material Apresentado</s>)</a>&nbsp;&nbsp;
   </h4>
   </p>
   <p align="center">
@@ -203,8 +203,8 @@
         </br>
       </p>
   <p align="center">
-    🎬<a href="" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
-    📚<a href="materialApresentado/">(<s>Material Apresentado</s>)</a>&nbsp;&nbsp;
+    🎬<a href="https://youtu.be/92VMiNXFI-Q" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/iot/iot.pdf">(Material Apresentado)</a>&nbsp;&nbsp;
   </h4>
   </p>
   <p align="center">
