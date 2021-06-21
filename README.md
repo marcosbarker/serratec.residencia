@@ -93,6 +93,8 @@
 ❌ Mentoria de Projetos</br>
 ✔️ [Palestras e Workshops](serratec.PalestrasWorkshops/)
 
+*Totalizando 770h*
+
 </br>
   
 ### <details><summary><img  height="30px" align="center" src="assets/questionblock.gif"> Trilha de Aprendizado Detalhada</summary><p align="center"></br><img  height="450px" src="assets/trilhaDeAprendizado.jpg"></p></details>
