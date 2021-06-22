@@ -211,6 +211,24 @@
     <img height="300px" src="assets/InternetOf.jpeg">
   </p>
 </details>
+<details> 
+  <summary>✔️ Intraempreendedorismo como diferencial na sua carreira.&nbsp;&nbsp;&nbsp;&nbsp;<i>(26/06/2021)</i></summary>
+    <h4>
+      <p align="justify">
+      <b>Palestrante:</b>    SEBRAE.
+        </br></br>
+          SEBRAE. Irá apresentar  Intraempreendedorismo como diferencial na sua carreira. 
+        </br>
+      </p>
+  <p align="center">
+    🎬<a href="" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/">(Material Apresentado)</a>&nbsp;&nbsp;
+  </h4>
+  </p>
+  <p align="center">
+    <img height="300px" src="assets/Intraempreendedorismo.jpeg">
+  </p>
+</details>
 
 *Totalizando 31h*
 
