@@ -1,0 +1,92 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "marcosbarker",
+      "name": "Marcos Paulo Marques Corrêa ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57602117?v=4",
+      "profile": "http://linktr.ee/marcos_barker",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "tool",
+        "infra",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "M4G1Ck",
+      "name": "Gabriel Macedo Araújo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79328112?v=4",
+      "profile": "https://www.linkedin.com/in/gabriel-macedo-ara%C3%BAjo-951603165/",
+      "contributions": [
+        "code",
+        "design",
+        "ideas",
+        "maintenance",
+        "test"
+      ]
+    },
+    {
+      "login": "raiocodrigues",
+      "name": "Caio Rodrigues",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82115790?v=4",
+      "profile": "https://github.com/raiocodrigues",
+      "contributions": [
+        "code",
+        "a11y",
+        "data"
+      ]
+    },
+    {
+      "login": "FredericoStilpen",
+      "name": "FredericoStilpen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82114348?v=4",
+      "profile": "https://github.com/FredericoStilpen",
+      "contributions": [
+        "code",
+        "doc",
+        "example",
+        "test",
+        "tutorial",
+        "ideas"
+      ]
+    },
+    {
+      "login": "JpBade",
+      "name": "João Paulo Bade",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82114843?v=4",
+      "profile": "https://github.com/JpBade",
+      "contributions": [
+        "code",
+        "ideas",
+        "example",
+        "mentoring"
+      ]
+    },
+    {
+      "login": "Volneineves",
+      "name": "Volnei Neves",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82004090?v=4",
+      "profile": "http://linktr.ee/volneineves",
+      "contributions": [
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "projectManagement"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "zeroCommerce",
+  "projectOwner": "OsZeressemos",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
