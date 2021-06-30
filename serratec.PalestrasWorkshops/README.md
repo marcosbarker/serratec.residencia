@@ -230,12 +230,12 @@
   </p>
 </details>
 <details> 
-  <summary>✔️ Intraempreendedorismo como diferencial na sua carreiraOs Princípios da Inovação: Como Empresas e Profissionais Inovadores estão se destacando na Nova Economia.&nbsp;&nbsp;&nbsp;&nbsp;<i>(26/06/2021)</i></summary>
+  <summary>✔️ Os Princípios da Inovação: Como Empresas e Profissionais Inovadores estão se destacando na Nova Economia.&nbsp;&nbsp;&nbsp;&nbsp;<i>(03/07/2021)</i></summary>
     <h4>
       <p align="justify">
       <b>Palestrante:</b>    Rafael Fernandes.
         </br></br>
-          SEBRAE.Rafael Fernandes, Analista de Inovação na Softex Nacional. Irá apresentar  Intraempreendedorismo como diferencial na sua carreira.Os Princípios da Inovação: Como Empresas e Profissionais Inovadores estão se destacando na Nova Economia. 
+          Rafael Fernandes, Analista de Inovação na Softex Nacional. Irá apresentar Os Princípios da Inovação: Como Empresas e Profissionais Inovadores estão se destacando na Nova Economia. 
         </br>
       </p>
   <p align="center">
