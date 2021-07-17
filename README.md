@@ -58,13 +58,12 @@
 
 </br>
 
+
 <details>
-<summary><font size="5" color="green">🥑Contribuidores Atividades em Grupo (Grupo 01-T4)</font></summary>
+<summary><h2>🥑Contribuidores Atividades em Grupo (Grupo 01-T4)</h2></summary>
 <p align="center">
   <img align="center" height="400px" src="assets/osZeressemosProTeam.png"> 
-</p>
-
-<table>
+</p><table>
   <tr>
     <td align="center">
       <a href="https://github.com/raiocodrigues">
