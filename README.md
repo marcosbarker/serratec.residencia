@@ -84,7 +84,7 @@
 ✔️ [Front-end Essencial](serratec.FrontEndEssencial/)</br>
 ✔️ [Desenvolvimento API Restful](serratec.desenvolvimentoAPI-Restful/)</br>
 ✔️ [Desenvolvimento Web](serratec.developmentWeb/)</br>
-❌ Desenvolvimento Mobile</br>
+✔️ [Desenvolvimento Mobile](serratec.DevelopmentMobile/)</br>
 ❌ Projeto Aplicado</br>
 ❌ Integração de Competência</br>
 ❌ Mentoria de Carreira</br>
