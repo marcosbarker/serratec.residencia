@@ -59,7 +59,7 @@
 </br>
 
 <details>
-<summary><h3>🥑Contribuidores Atividades em Grupo (Grupo 01-T4)</h3></summary>
+<summary><font size="4">🥑Contribuidores Atividades em Grupo (Grupo 01-T4)</font></summary>
 <p align="center">
   <img align="center" height="400px" src="assets/osZeressemosProTeam.png"> 
 </p>
