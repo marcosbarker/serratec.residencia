@@ -239,12 +239,30 @@
         </br>
       </p>
   <p align="center">
-    🎬<a href="" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    🎬<a href="https://youtu.be/AP4oo7OxJok" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
     📚<a href="materialApresentado/">(Material Apresentado)</a>&nbsp;&nbsp;
   </h4>
   </p>
   <p align="center">
     <img height="300px" src="assets/principiosInovacao.jpeg">
+  </p>
+</details>
+<details> 
+  <summary>✔️ Treinamento DB Schema.&nbsp;&nbsp;&nbsp;&nbsp;<i>(10/07/2021)</i></summary>
+    <h4>
+      <p align="justify">
+      <b>Palestrante:</b>    Marcelo Carius.
+        </br></br>
+          Marcelo Carius, CEO da Neki. Irá apresentar Treinamento DB Schema. 
+        </br>
+      </p>
+  <p align="center">
+    🎬<a href="https://youtu.be/byCKKAGNxco" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
+    📚<a href="materialApresentado/">(Material Apresentado)</a>&nbsp;&nbsp;
+  </h4>
+  </p>
+  <p align="center">
+    <img height="300px" src="assets/dbschema.jpeg">
   </p>
 </details>
 
