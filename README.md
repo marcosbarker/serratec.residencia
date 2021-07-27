@@ -17,7 +17,7 @@
 ✔️ [Desenvolvimento Web](serratec.developmentWeb/)</br>
 ✔️ [Desenvolvimento Mobile](serratec.DevelopmentMobile/)</br>
 ❌ Projeto Aplicado</br>
-❌ Integração de Competência</br>
+   - Integração de Competência</br>
 ✔️ [Mentoria de Carreira](#)</br>
 ✔️ [Inglês Instrumental](serratec.Ingles/)</br>
 ❌ <s>Maratona de Programação</s></br>
