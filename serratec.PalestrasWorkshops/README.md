@@ -240,7 +240,7 @@
       </p>
   <p align="center">
     🎬<a href="https://youtu.be/AP4oo7OxJok" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
-    📚<a href="materialApresentado/">(Material Apresentado)</a>&nbsp;&nbsp;
+    📚<a href="">(<s>Material Apresentado</s>)</a>&nbsp;&nbsp;
   </h4>
   </p>
   <p align="center">
@@ -258,7 +258,7 @@
       </p>
   <p align="center">
     🎬<a href="https://youtu.be/byCKKAGNxco" target="_blank">(Vídeo da Palestra)</a>&nbsp;&nbsp;    
-    📚<a href="materialApresentado/">(Material Apresentado)</a>&nbsp;&nbsp;
+    📚<a href=""><s>(Material Apresentado)</s></a>&nbsp;&nbsp;
   </h4>
   </p>
   <p align="center">
