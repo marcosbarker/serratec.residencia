@@ -16,7 +16,7 @@
 ✔️ [Desenvolvimento API Restful](serratec.desenvolvimentoAPI-Restful/)</br>
 ✔️ [Desenvolvimento Web](serratec.developmentWeb/)</br>
 ✔️ [Desenvolvimento Mobile](serratec.DevelopmentMobile/)</br>
-❌ [Projeto Aplicado e Integração de Competência]()</br>
+✔️ [Projeto Aplicado e Integração de Competência](serratec.ProjetoAplicado/)</br>
 ✔️ [Mentoria de Carreira](#)</br>
 ✔️ [Inglês Instrumental](serratec.Ingles/)</br>
 ❌ <s>Maratona de Programação</s></br>
