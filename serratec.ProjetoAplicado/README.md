@@ -43,15 +43,15 @@
 <br>
 
 ## 🍃Back End
-- [Repositório](https://github.com/serratec/2021.1t2mTreinamento)
+- [Repositório *(Privado)*](https://github.com/serratec/2021.1t2mTreinamento)    
 <br>
 
 ## 📱Versão Mobile  
-- [Repositório](https://github.com/serratec/20211t2mtreinamentoMobile)  
+- [Repositório *(Privado)*](https://github.com/serratec/20211t2mtreinamentoMobile)  
 <br>
 
 ## 🌐Versão Web
-- [Repositório](https://github.com/serratec/20211t2mtreinamentoFront)
+- [Repositório *(Privado)*](https://github.com/serratec/20211t2mtreinamentoFront)
 <br>
 
 ## ⚙️Repositórios de Desenvolvimento
