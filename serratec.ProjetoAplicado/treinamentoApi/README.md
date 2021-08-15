@@ -133,7 +133,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/isis-la">
-        <img src="https://unavatar.vercel.app/github/isis-la" width="70px;" alt="Avatar Isis Soares"/><br>
+        <img src="https://unavatar.vercel.app/github/isis%2Dla" width="70px;" alt="Avatar Isis Soares"/><br>
         <sub>
           <b>Isis Soares</b>
         </sub>
